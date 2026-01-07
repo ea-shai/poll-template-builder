@@ -41,3 +41,5 @@ next-env.d.ts
 # Raw data processing (local only)
 data/raw/
 scripts/
+.vercel
+.env*.local

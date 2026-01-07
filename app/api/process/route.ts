@@ -1,8 +1,6 @@
 import { put, list } from "@vercel/blob";
 import { NextRequest, NextResponse } from "next/server";
 import mammoth from "mammoth";
-// @ts-expect-error - pdf-parse module import
-import * as pdfParse from "pdf-parse";
 import { DocumentMetadata } from "../documents/route";
 import { Question } from "@/lib/types";
 
@@ -222,8 +220,11 @@ export async function POST(request: NextRequest) {
         const result = await mammoth.extractRawText({ buffer });
         text = result.value;
       } else if (doc.type === "pdf") {
-        const pdf = pdfParse.default || pdfParse;
-        const pdfData = await pdf(buffer);
+        // Dynamic import for pdf-parse (CommonJS module)
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const pdfModule = await import("pdf-parse") as any;
+        const pdfParse = pdfModule.default || pdfModule;
+        const pdfData = await pdfParse(buffer);
         text = pdfData.text;
       }
 
