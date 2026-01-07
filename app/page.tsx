@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo, useCallback } from "react";
+import { useState, useMemo, useCallback, useEffect } from "react";
 import {
   DndContext,
   closestCenter,
@@ -18,14 +18,11 @@ import {
   verticalListSortingStrategy,
 } from "@dnd-kit/sortable";
 import { CSS } from "@dnd-kit/utilities";
-import questionsData from "@/data/questions.json";
 import { Question, TemplateQuestion, RaceConfig, QuestionsData } from "@/lib/types";
 import { QuestionCard } from "@/components/QuestionCard";
 import { CategoryFilter } from "@/components/CategoryFilter";
 import { RaceConfigForm } from "@/components/RaceConfigForm";
 import { exportToWord, downloadBlob } from "@/lib/export";
-
-const data = questionsData as QuestionsData;
 
 function SortableQuestionCard({
   question,
@@ -69,7 +66,12 @@ function SortableQuestionCard({
 }
 
 export default function Home() {
-  // State
+  // Data state
+  const [data, setData] = useState<QuestionsData | null>(null);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+
+  // UI state
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
   const [searchQuery, setSearchQuery] = useState("");
   const [templateQuestions, setTemplateQuestions] = useState<TemplateQuestion[]>([]);
@@ -83,6 +85,25 @@ export default function Home() {
   });
   const [showConfig, setShowConfig] = useState(false);
 
+  // Fetch questions on mount
+  useEffect(() => {
+    async function fetchQuestions() {
+      try {
+        setIsLoading(true);
+        const res = await fetch("/api/questions", { cache: "no-store" });
+        if (!res.ok) throw new Error("Failed to fetch questions");
+        const questionsData = await res.json();
+        setData(questionsData);
+        setError(null);
+      } catch (err) {
+        setError(err instanceof Error ? err.message : "Failed to load questions");
+      } finally {
+        setIsLoading(false);
+      }
+    }
+    fetchQuestions();
+  }, []);
+
   // DnD sensors
   const sensors = useSensors(
     useSensor(PointerSensor),
@@ -93,12 +114,13 @@ export default function Home() {
 
   // Categories from data
   const categories = useMemo(
-    () => Object.keys(data.stats.by_category).sort(),
-    []
+    () => (data ? Object.keys(data.stats.by_category).sort() : []),
+    [data]
   );
 
   // Filtered questions
   const filteredQuestions = useMemo(() => {
+    if (!data) return [];
     let result = data.questions;
 
     if (selectedCategories.length > 0) {
@@ -115,7 +137,7 @@ export default function Home() {
     }
 
     return result;
-  }, [selectedCategories, searchQuery]);
+  }, [data, selectedCategories, searchQuery]);
 
   // Selected question IDs for quick lookup
   const selectedIds = useMemo(
@@ -184,6 +206,38 @@ export default function Home() {
     setCustomTexts({});
   }, []);
 
+  // Loading state
+  if (isLoading) {
+    return (
+      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600 mx-auto mb-4"></div>
+          <p className="text-gray-600">Loading questions...</p>
+        </div>
+      </div>
+    );
+  }
+
+  // Error state
+  if (error || !data) {
+    return (
+      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+        <div className="text-center">
+          <p className="text-red-600 mb-4">{error || "Failed to load data"}</p>
+          <button
+            onClick={() => window.location.reload()}
+            className="text-primary-600 hover:underline"
+          >
+            Try again
+          </button>
+        </div>
+      </div>
+    );
+  }
+
+  // Count unique sources
+  const sourceCount = new Set(data.questions.map((q) => q.source)).size;
+
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
@@ -195,11 +249,16 @@ export default function Home() {
                 Poll Template Builder
               </h1>
               <p className="text-sm text-gray-500">
-                {data.stats.total_questions} questions from{" "}
-                {data.sources.length} instruments
+                {data.stats.total_questions} questions from {sourceCount} instruments
               </p>
             </div>
             <div className="flex items-center gap-3">
+              <a
+                href="/admin"
+                className="text-sm text-gray-500 hover:text-gray-700 px-3 py-2"
+              >
+                Admin
+              </a>
               {templateQuestions.length > 0 && (
                 <>
                   <button
