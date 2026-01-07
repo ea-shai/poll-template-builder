@@ -1,0 +1,1826 @@
+{
+  "categories": {
+    "screener": "Voter eligibility and intent to vote screening questions",
+    "favorability": "Favorability/Unfavorability rating questions",
+    "job_approval": "Job approval rating questions",
+    "top_of_ballot": "Vote intent / ballot test questions",
+    "persuasion": "Persuasion/push questions testing message impact",
+    "policy": "Policy position questions",
+    "issue": "Issue-specific opinion questions",
+    "demographics": "Demographic questions"
+  },
+  "sources": [
+    {
+      "name": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)",
+      "question_count": 9
+    },
+    {
+      "name": "Constituent Survey Script 2025 (8)",
+      "question_count": 1
+    },
+    {
+      "name": "Pottsville Voter ID Survey - revised scrip Oct 21 (7)",
+      "question_count": 4
+    },
+    {
+      "name": "ARSD13 GOP PRIMARY DRAFT v2 (9)",
+      "question_count": 5
+    },
+    {
+      "name": "AR_SD_10_Draft (1)",
+      "question_count": 2
+    },
+    {
+      "name": "HWA IN POLL FINAL (13)",
+      "question_count": 12
+    },
+    {
+      "name": "IL geos instrument (5)",
+      "question_count": 27
+    },
+    {
+      "name": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "question_count": 21
+    },
+    {
+      "name": "new oh hwa poll (5)",
+      "question_count": 8
+    },
+    {
+      "name": "Gill 119_Survey Questions_July 2025[84] (1)",
+      "question_count": 0
+    },
+    {
+      "name": "Gill 119_Survey Questions_October 2025[79] (2)",
+      "question_count": 2
+    },
+    {
+      "name": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "question_count": 16
+    },
+    {
+      "name": "OHIO POLL (3)",
+      "question_count": 13
+    },
+    {
+      "name": "ALHD38 SPECIAL GOP (2)",
+      "question_count": 5
+    },
+    {
+      "name": "MIDLAND DRAFT FINAL (6)",
+      "question_count": 18
+    },
+    {
+      "name": "TN07 091525 (4)",
+      "question_count": 3
+    },
+    {
+      "name": "Alford for Congress Survey Instrument (1)",
+      "question_count": 2
+    },
+    {
+      "name": "AR_SD_21_Draft (1)",
+      "question_count": 1
+    },
+    {
+      "name": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "question_count": 23
+    },
+    {
+      "name": "PATRIOT MOBILE DRAFT final (3)",
+      "question_count": 6
+    },
+    {
+      "name": "TEDDYS LAW POLL FINAL (8)",
+      "question_count": 5
+    },
+    {
+      "name": "AR_SD_28_Draft (1)",
+      "question_count": 2
+    },
+    {
+      "name": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "question_count": 21
+    },
+    {
+      "name": "MO SD 6 GOP Primary Survey Instrument v1 (3)",
+      "question_count": 2
+    },
+    {
+      "name": "GA SD 18 Special Election Survey Instrument 121825 (7)",
+      "question_count": 4
+    }
+  ],
+  "questions": [
+    {
+      "id": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)_Q1",
+      "text": "Do you believe the St. Charles Parish Government is on the right track, or is it headed off in the wrong direction? Right track Wrong direction",
+      "full_text": "Do you believe the St. Charles Parish Government is on the right track, or is it headed off in the wrong direction?\n\nRight track\nWrong direction\nNot sure",
+      "category": "other",
+      "source": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)_Q2",
+      "text": "What is your opinion of Sheriff Greg Champagne?",
+      "full_text": "What is your opinion of Sheriff Greg Champagne? \n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)_Q3",
+      "text": "What is your opinion of Parish President Matt Jewell?",
+      "full_text": "What is your opinion of Parish President Matt Jewell?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)_Q4",
+      "text": "What is your opinion of Anthony Ayo?",
+      "full_text": "What is your opinion of Anthony Ayo? \n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)_Q5",
+      "text": "What is your opinion of St. Charles Parish Council?",
+      "full_text": "What is your opinion of St. Charles Parish Council?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)",
+      "marker": "Q5:"
+    },
+    {
+      "id": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)_Q6",
+      "text": "St. Charles Parish Council is currently considering a ballot measure to extend the term of office for all Parish Council members from two terms to three terms. Would you support or oppose this ballot measure? Support Oppose",
+      "full_text": "St. Charles Parish Council is currently considering a ballot measure to extend the term of office for all Parish Council members from two terms to three terms. Would you support or oppose this ballot measure?\n\nSupport\nOppose\nUndecided",
+      "category": "policy",
+      "source": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)_Q7",
+      "text": "St. Charles Parish Council is currently considering a ballot measure to extend the term of office for the Parish President from two terms to three terms. Would you support or oppose this ballot measure? Support Oppose",
+      "full_text": "St. Charles Parish Council is currently considering a ballot measure to extend the term of office for the Parish President from two terms to three terms. Would you support or oppose this ballot measure?\n\nSupport\nOppose\nUndecided",
+      "category": "policy",
+      "source": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)",
+      "marker": "Q7:"
+    },
+    {
+      "id": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)_Q8",
+      "text": "Do you support or oppose the implementation of a new technology in our area that would capture and store carbon dioxide underground (often referred to as carbon capture or carbon sequestration)? Support Oppose",
+      "full_text": "Do you support or oppose the implementation of a new technology in our area that would capture and store carbon dioxide underground (often referred to as carbon capture or carbon sequestration)?\n\nSupport\nOppose\nNot sure",
+      "category": "policy",
+      "source": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)",
+      "marker": "Q8:"
+    },
+    {
+      "id": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)_DEMOGRAPHICS",
+      "text": "PARTY IDEOLOGY GENDER AGE",
+      "full_text": "PARTY\nIDEOLOGY\nGENDER\nAGE",
+      "category": "demographics",
+      "source": "ST CHARLES PARISH INSTRUMENT 2025 v3_JH FINAL (3)",
+      "marker": "DEMOGRAPHICS:"
+    },
+    {
+      "id": "Constituent Survey Script 2025 (8)_SCREEN",
+      "text": "Do you have a moment to answer questions from the Office of Congressman Jason Smith, so he can better serve you in Congress?",
+      "full_text": "Do you have a moment to answer questions from the Office of Congressman Jason Smith, so he can better serve you in Congress?\n\nYes\nNo [END SURVEY]\n\n\t\u2022\tDo you approve or disapprove of President Trump\u2019s work as your President of the United States of America?\n\nApprove\nDisapprove\nNot sure\n\n\t\u2022\tDo you approve or disapprove of Congressman Jason Smith\u2019s work as your Representative?\n\nApprove\nDisapprove\nNot sure\n\n\t\u2022\tDo you approve or disapprove of Senator Josh Hawley\u2019s work as your Senator?\n\nApprove\nDisapp",
+      "category": "other",
+      "source": "Constituent Survey Script 2025 (8)",
+      "marker": "SCREEN:"
+    },
+    {
+      "id": "Pottsville Voter ID Survey - revised scrip Oct 21 (7)_Q1",
+      "text": "Do you plan to vote in the upcoming November 4th General Election for Pottsville Mayor and City Council?",
+      "full_text": "Do you plan to vote in the upcoming November 4th General Election for Pottsville Mayor and City Council?\n\nYes\nNo",
+      "category": "screener",
+      "source": "Pottsville Voter ID Survey - revised scrip Oct 21 (7)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "Pottsville Voter ID Survey - revised scrip Oct 21 (7)_Q2",
+      "text": "Candidates in the November 4th General Election for Pottsville Mayor are Democrat Andy Wollyung and Republican Tom Smith. If the election were held today, for which candidate would you vote? Andy Wollyung Tom Smith",
+      "full_text": "Candidates in the November 4th General Election for Pottsville Mayor are Democrat Andy Wollyung and Republican Tom Smith. If the election were held today, for which candidate would you vote?\n\nAndy Wollyung\nTom Smith",
+      "category": "top_of_ballot",
+      "source": "Pottsville Voter ID Survey - revised scrip Oct 21 (7)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "Pottsville Voter ID Survey - revised scrip Oct 21 (7)_Q3",
+      "text": "Candidates in the November 4th General Election for Pottsville City Council are Democrats Thomas Wood and Mike Weres and Republicans Scott Price and Jon Marsh. If the election were held today, for which two candidates would you vote? Thomas Wood Mike Weres Scott Price Jon Marsh",
+      "full_text": "Candidates in the November 4th General Election for Pottsville City Council are Democrats Thomas Wood and Mike Weres and Republicans Scott Price and Jon Marsh. If the election were held today, for which two candidates would you vote?\n\nThomas Wood \nMike Weres\nScott Price \nJon Marsh",
+      "category": "top_of_ballot",
+      "source": "Pottsville Voter ID Survey - revised scrip Oct 21 (7)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "Pottsville Voter ID Survey - revised scrip Oct 21 (7)_Q4",
+      "text": "Which of the following issues would you like your Pottsville elected leaders to make their top priority? Budget and government spending Crime and public safety Infrastructure and transportation Economic development Community services Over-development Parks and open spaces Something else",
+      "full_text": "Which of the following issues would you like your Pottsville elected leaders to make their top priority?\n\nBudget and government spending\nCrime and public safety\nInfrastructure and transportation\nEconomic development \nCommunity services\nOver-development\nParks and open spaces\nSomething else\nNot sure\nUndecided",
+      "category": "other",
+      "source": "Pottsville Voter ID Survey - revised scrip Oct 21 (7)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "ARSD13 GOP PRIMARY DRAFT v2 (9)_Q1",
+      "text": "Candidates in the 2026 Republican Primary Election for Arkansas State Senate District 13 are Mischa Martin and Brandon Achor. If the election were held today, for whom would you vote? Mischa Martin Brandon Achor",
+      "full_text": "Candidates in the 2026 Republican Primary Election for Arkansas State Senate District 13 are Mischa Martin and Brandon Achor. If the election were held today, for whom would you vote?\n\nMischa Martin\nBrandon Achor\nUndecided",
+      "category": "top_of_ballot",
+      "source": "ARSD13 GOP PRIMARY DRAFT v2 (9)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "ARSD13 GOP PRIMARY DRAFT v2 (9)_Q2",
+      "text": "How much have you seen, read or heard recently about Mischa Martin? A lot Just some Nothing at all",
+      "full_text": "How much have you seen, read or heard recently about Mischa Martin?\n\nA lot\nJust some \nNothing at all",
+      "category": "other",
+      "source": "ARSD13 GOP PRIMARY DRAFT v2 (9)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "ARSD13 GOP PRIMARY DRAFT v2 (9)_Q3",
+      "text": "How much have you seen, read or heard recently about Brandon Achor? A lot Just some Nothing at all",
+      "full_text": "How much have you seen, read or heard recently about Brandon Achor?\n\nA lot\nJust some \nNothing at all",
+      "category": "other",
+      "source": "ARSD13 GOP PRIMARY DRAFT v2 (9)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "ARSD13 GOP PRIMARY DRAFT v2 (9)_Q4",
+      "text": "Which of the following issues would you like your next State Senator to make their top priority? The economy/cost of living Education/school choice The Second Amendment Faith/Family Values Abortion Immigration Foreign purchases of Arkansas farmland Something else",
+      "full_text": "Which of the following issues would you like your next State Senator to make their top priority?\n\nThe economy/cost of living\nEducation/school choice\nThe Second Amendment\nFaith/Family Values\nAbortion\nImmigration\nForeign purchases of Arkansas farmland\nSomething else\nNot sure",
+      "category": "demographics",
+      "source": "ARSD13 GOP PRIMARY DRAFT v2 (9)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "ARSD13 GOP PRIMARY DRAFT v2 (9)_DEMOGRAPHICS",
+      "text": "TYPE OF GOP IDEOLOGY GENDER AGE",
+      "full_text": "TYPE OF GOP\nIDEOLOGY\nGENDER\nAGE",
+      "category": "demographics",
+      "source": "ARSD13 GOP PRIMARY DRAFT v2 (9)",
+      "marker": "DEMOGRAPHICS:"
+    },
+    {
+      "id": "AR_SD_10_Draft (1)_SCREEN",
+      "text": "Do you plan to vote in the 2026 Republican Primary Election?  Yes No [END CALL]  Q1: What is your opinion of President Donald Trump?  Favorable Unfavorable No opinion  Q2: What is your opinion of Governor Sarah Huckabee Sanders?  Favorable Unfavorable No opinion  Q3: What is your opinion of State Senator Ron Caldwell?  Favorable Unfavorable No opinion  Q4: If the Republican primary for state senate were held today, would you vote for Senator Ron Caldwell or someone else?  Senator Ron Caldwell Someone else Undecided  Q5: Does it make you more likely or less likely to vote for Ron Caldwell knowing he voted against giving Arkansas state troopers a pay raise?  Much more likely Somewhat more likely Somewhat less likely Much less likely No difference 816-407-1222 \u00b7 www.RemingtonResearchGroup.com",
+      "full_text": "Do you plan to vote in the 2026 Republican Primary Election?  Yes No [END CALL]  Q1: What is your opinion of President Donald Trump?  Favorable Unfavorable No opinion  Q2: What is your opinion of Governor Sarah Huckabee Sanders?  Favorable Unfavorable No opinion  Q3: What is your opinion of State Senator Ron Caldwell?  Favorable Unfavorable No opinion  Q4: If the Republican primary for state senate were held today, would you vote for Senator Ron Caldwell or someone else?  Senator Ron Caldwell So",
+      "category": "screener",
+      "source": "AR_SD_10_Draft (1)",
+      "marker": "SCREEN:"
+    },
+    {
+      "id": "AR_SD_10_Draft (1)_Q6",
+      "text": "Does it make you more likely or less likely to vote for Ron Caldwell knowing he joined with Democrats to vote against building a new state prison that would help lock up more violent criminals?  Much more likely Somewhat more likely Somewhat less likely Much less likely No difference  Q7: Does it make you more likely or less likely to vote for Ron Caldwell knowing he joined with Democrats to vote to allow more windmills on Arkansas farmland?  Much more likely Somewhat more likely Somewhat less likely Much less likely No difference  Q8: Does it make you more likely or less likely to vote for Ron Caldwell knowing he turned his land into a solar farm and has been one of the leading green energy champions for the environmentalist movement in Arkansas?  Much more likely Somewhat more likely Somewhat less likely Much less likely No difference  Q9: Does it make you more likely or less likely to vote for Ron Caldwell knowing he did NOT vote to prohibit lobbying by the Chinese Communist Party in Arkansas?  Much more likely Somewhat more likely Somewhat less likely Much less likely No difference  Q10: Does it make you more likely or less likely to vote for Ron Caldwell knowing he did NOT vote to give public school teachers record pay raises? 816-407-1222 \u00b7 www.RemingtonResearchGroup.com Much more likely Somewhat more likely Somewhat less likely Much less likely No difference  Q11: Does it make you more likely or less likely to vote for Ron Caldwell knowing he did NOT vote to ban indoctrination in our kids\u2019 classrooms?  Much more likely Somewhat more likely Somewhat less likely Much less likely No difference  Q12: What is your opinion of State Senator Ron Caldwell?  Favorable Unfavorable No opinion  Q13: If the Republican primary for state senate were held today, would you vote for Senator Ron Caldwell or someone else?  Senator Ron Caldwell Someone else Undecided  Q14: Which of the following issues do you believe should be the top priority of the Arkansas state legislature?   Jobs and the economy Stopping illegal immigration Lowering property taxes Improving education Protecting the 2nd Amendment Lowering crime Protecting women and girls\u2019 sports Infrastructure like roads and bridges  Water Something else 816-407-1222 \u00b7 www.RemingtonResearchGroup.com Not sure  DEMOGRAPHICS: TYPE OF GOP GENDER IDEOLOGY AGE",
+      "full_text": "Does it make you more likely or less likely to vote for Ron Caldwell knowing he joined with Democrats to vote against building a new state prison that would help lock up more violent criminals?  Much more likely Somewhat more likely Somewhat less likely Much less likely No difference  Q7: Does it make you more likely or less likely to vote for Ron Caldwell knowing he joined with Democrats to vote to allow more windmills on Arkansas farmland?  Much more likely Somewhat more likely Somewhat less l",
+      "category": "favorability",
+      "source": "AR_SD_10_Draft (1)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q1",
+      "text": "The Indiana Department of Natural Resources notes that native carnivores like coyotes and foxes help maintain balance in the state\u2019s ecosystems by controlling populations of small mammals like rodents and rabbits. Do you agree or disagree that wildlife like coyotes and foxes are important to healthy Indiana ecosystems? Agree Disagree",
+      "full_text": "The Indiana Department of Natural Resources notes that native carnivores like coyotes and foxes help maintain balance in the state\u2019s ecosystems by controlling populations of small mammals like rodents and rabbits. Do you agree or disagree that wildlife like coyotes and foxes are important to healthy Indiana ecosystems?\n\nAgree\nDisagree\nNot sure",
+      "category": "policy",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q2",
+      "text": "Wildlife killing contests are organized events in which participants compete for cash or prizes for killing wild animals\u2014most often coyotes, foxes, raccoons, or squirrels in Indiana\u2014within a specified time period. These contests typically run 24 to 48 hours and end with organizers counting or weighing animals to award prizes for the most, largest, or smallest killed. In some contests, several hundred animals have been killed. Do you think it is acceptable or unacceptable to hold or participate in wildlife killing contests in Indiana? Acceptable Unacceptable",
+      "full_text": "Wildlife killing contests are organized events in which participants compete for cash or prizes for killing wild animals\u2014most often coyotes, foxes, raccoons, or squirrels in Indiana\u2014within a specified time period. These contests typically run 24 to 48 hours and end with organizers counting or weighing animals to award prizes for the most, largest, or smallest killed. In some contests, several hundred animals have been killed. Do you think it is acceptable or unacceptable to hold or participate i",
+      "category": "other",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q3",
+      "text": "A ban on wildlife killing contests would end organized events that award cash or prizes for killing certain wild animals. It would not affect regular hunting or wildlife damage control. Do you support or oppose a ban on wildlife killing contests in Indiana? Support Oppose",
+      "full_text": "A ban on wildlife killing contests would end organized events that award cash or prizes for killing certain wild animals. It would not affect regular hunting or wildlife damage control. Do you support or oppose a ban on wildlife killing contests in Indiana?\n\nSupport\nOppose\nNot sure",
+      "category": "policy",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q4",
+      "text": "Many state wildlife officials and hunters have expressed concern that wildlife killing contests may harm the reputation of sportsmen and sportswomen and public support for hunting. Public surveys show that Americans continue to support hunting overall but are less supportive of practices they view as inhumane or wasteful. In response, ten U.S. states have now prohibited wildlife killing contests. Do you support or oppose a ban on wildlife killing contests in Indiana? Support Oppose",
+      "full_text": "Many state wildlife officials and hunters have expressed concern that wildlife killing contests may harm the reputation of sportsmen and sportswomen and public support for hunting. Public surveys show that Americans continue to support hunting overall but are less supportive of practices they view as inhumane or wasteful. In response, ten U.S. states have now prohibited wildlife killing contests. Do you support or oppose a ban on wildlife killing contests in Indiana?\n\nSupport\nOppose\nNot sure",
+      "category": "policy",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q5",
+      "text": "Under the public trust doctrine, the Indiana Natural Resources Commission is responsible for managing wildlife for the benefit of all residents. Some people say allowing organized contests to kill wildlife for prizes conflicts with that responsibility. Should the Indiana Natural Resources Commission ban wildlife killing contests in Indiana? Yes, it should ban them No, it should not ban them",
+      "full_text": "Under the public trust doctrine, the Indiana Natural Resources Commission is responsible for managing wildlife for the benefit of all residents. Some people say allowing organized contests to kill wildlife for prizes conflicts with that responsibility. Should the Indiana Natural Resources Commission ban wildlife killing contests in Indiana?\n\nYes, it should ban them\nNo, it should not ban them\nNot sure",
+      "category": "other",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q5:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q6",
+      "text": "Decisions about whether to allow or prohibit wildlife killing contests affect the public\u2019s wildlife resources. How important is it to you that the Indiana Natural Resources Commission take public opinion into account when making these decisions?",
+      "full_text": "Decisions about whether to allow or prohibit wildlife killing contests affect the public\u2019s wildlife resources. How important is it to you that the Indiana Natural Resources Commission take public opinion into account when making these decisions?\n\nVery important\nSomewhat important\nSomewhat unimportant\nNot at all important \nNot sure",
+      "category": "issue",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q7",
+      "text": "How strongly do you support or oppose a state ban on wildlife killing contests in Indiana?",
+      "full_text": "How strongly do you support or oppose a state ban on wildlife killing contests in Indiana? \n\nStrongly support\nSomewhat support\nSomewhat oppose\nStrongly oppose\nNeither/not sure",
+      "category": "policy",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q7:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q8",
+      "text": "This fall, Indiana will allow its first bobcat trapping season since bobcats were protected in the 1960s. The Natural Resources Commission approved a quota \u2013 that is, the number of bobcats allowed to be killed \u2013 of 250 bobcats. The Department of Natural Resources did not provide data to demonstrate any need to kill 250 bobcats. The trapping season will allow recreational trappers to kill bobcats and sell their fur to overseas markets. Do you support or oppose the bobcat trapping season? Support Oppose",
+      "full_text": "This fall, Indiana will allow its first bobcat trapping season since bobcats were protected in the 1960s. The Natural Resources Commission approved a quota \u2013 that is, the number of bobcats allowed to be killed \u2013 of 250 bobcats. The Department of Natural Resources did not provide data to demonstrate any need to kill 250 bobcats. The trapping season will allow recreational trappers to kill bobcats and sell their fur to overseas markets. Do you support or oppose the bobcat trapping season?\n\nSupport",
+      "category": "policy",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q8:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q9",
+      "text": "The majority of the public comments received during the public comment period opposed the bobcat trapping season proposal, and many supported a bobcat trapping quota of zero, meaning no bobcats would be killed. Do you believe that the Natural Resources Commission should have given more serious consideration to the majority of public comments?",
+      "full_text": "The majority of the public comments received during the public comment period opposed the bobcat trapping season proposal, and many supported a bobcat trapping quota of zero, meaning no bobcats would be killed. Do you believe that the Natural Resources Commission should have given more serious consideration to the majority of public comments?\n\nYes\nNo\nNot sure",
+      "category": "other",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q9:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q10",
+      "text": "In addition to a trapping season, the Department of Natural Resources may also propose opening a trophy hunting season on bobcats. Do you support or oppose trophy hunting of bobcats? Support Oppose",
+      "full_text": "In addition to a trapping season, the Department of Natural Resources may also propose opening a trophy hunting season on bobcats. Do you support or oppose trophy hunting of bobcats?\n\nSupport\nOppose\nNot sure",
+      "category": "policy",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q10:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q11",
+      "text": "The bobcat season was opened because of a law passed by the Legislature in 2024, despite substantial opposition from the public.  Does a legislator\u2019s position on wildlife management\u2014like bobcat hunting\u2014impact whether you vote for them or not?",
+      "full_text": "The bobcat season was opened because of a law passed by the Legislature in 2024, despite substantial opposition from the public.  Does a legislator\u2019s position on wildlife management\u2014like bobcat hunting\u2014impact whether you vote for them or not?\n\nYes\nNo\nNot sure",
+      "category": "other",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q11:"
+    },
+    {
+      "id": "HWA IN POLL FINAL (13)_Q12",
+      "text": "In Indiana, it is currently legal to trap coyotes, red foxes, gray foxes, and raccoons, remove them from the wild, and keep them in captivity\u2014confined to a cage\u2014for several months without a permit. This may be done to collect urine from the animal to make or sell trapping lure for recreational trappers. Do you believe taking animals from the wild and keeping them in captivity in this manner should be allowed in Indiana? Yes, it should be allowed No, it should not be allowed",
+      "full_text": "In Indiana, it is currently legal to trap coyotes, red foxes, gray foxes, and raccoons, remove them from the wild, and keep them in captivity\u2014confined to a cage\u2014for several months without a permit. This may be done to collect urine from the animal to make or sell trapping lure for recreational trappers. Do you believe taking animals from the wild and keeping them in captivity in this manner should be allowed in Indiana?\n\nYes, it should be allowed\nNo, it should not be allowed\nNot sure\n\nDEMOS:\nPAR",
+      "category": "other",
+      "source": "HWA IN POLL FINAL (13)",
+      "marker": "Q12:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q1",
+      "text": "If your local government were considering approving plans for the construction of a data center, would you support or oppose this project? Support Oppose Not sure/would need more information",
+      "full_text": "If your local government were considering approving plans for the construction of a data center, would you support or oppose this project?\n\nSupport\nOppose\nNot sure/would need more information",
+      "category": "policy",
+      "source": "IL geos instrument (5)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q2",
+      "text": "What is your opinion of data centers?",
+      "full_text": "What is your opinion of data centers?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "IL geos instrument (5)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q3",
+      "text": "How much have you seen, read or heard recently about proposed data centers in your area? A lot Just some Nothing at all The next handful of questions will ask you your opinion of various places, companies, entities and people. Please indicate, after hearing each one, whether you have a favorable or unfavorable opinion.",
+      "full_text": "How much have you seen, read or heard recently about proposed data centers in your area?\n\nA lot \nJust some\nNothing at all\n\nThe next handful of questions will ask you your opinion of various places, companies, entities and people. Please indicate, after hearing each one, whether you have a favorable or unfavorable opinion.",
+      "category": "favorability",
+      "source": "IL geos instrument (5)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q4",
+      "text": "Artificial intelligence like Chat GPT",
+      "full_text": "Artificial intelligence like Chat GPT\n\nFavorable\nUnfavorable\nNo opinion\n\nA new data center would pay significant property taxes to support local public services. Please rank how important each of the following services are to you.",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q6",
+      "text": "Local Police, Fire & Ambulance",
+      "full_text": "Local Police, Fire & Ambulance\n\nVery important\nSomewhat important\nSomewhat unimportant\nVery unimportant \nNot sure",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q7",
+      "text": "Local Schools",
+      "full_text": "Local Schools\n\nVery important\nSomewhat important\nSomewhat unimportant\nVery unimportant \nNot sure",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q7:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q8",
+      "text": "Local Parks",
+      "full_text": "Local Parks\n\nVery important\nSomewhat important\nSomewhat unimportant\nVery unimportant \nNot sure",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q8:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q9",
+      "text": "Local Streets, roads, and bridges",
+      "full_text": "Local Streets, roads, and bridges\n\nVery important\nSomewhat important\nSomewhat unimportant\nVery unimportant \nNot sure",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q9:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q10",
+      "text": "Lower local property taxes",
+      "full_text": "Lower local property taxes\n\nVery important\nSomewhat important\nSomewhat unimportant\nVery unimportant \nNot sure\n\nI will now read you a handful of statements you may hear about data center projects. Please indicate if you would be more likely or less likely to support a data center project in your area after hearing each statement.",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q10:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q13",
+      "text": "Data centers provide hundreds of good paying local jobs.",
+      "full_text": "Data centers provide hundreds of good paying local jobs.\n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q13:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q14",
+      "text": "Data centers provide tens of millions of dollars in property taxes for streets, schools, fire protection and police services. The taxes provided by data centers help lower the amount of taxes paid by homeowners.",
+      "full_text": "Data centers provide tens of millions of dollars in property taxes for streets, schools, fire protection and police services. The taxes provided by data centers help lower the amount of taxes paid by homeowners.\n\nMore likely\nLess likely\nNo difference\n\nQ16 [Illinois Counties]: Data centers are required by regulatory frameworks to pay their fair share of energy costs to serve them and are not offered any discounts. The infrastructure costs to connect data centers to the grid are not passed on to o",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q14:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q18",
+      "text": "The water usage of data centers can be carefully managed.",
+      "full_text": "The water usage of data centers can be carefully managed.\n\nMore likely\nLess likely\nNo difference\n\nQ19 [Illinois Counties]: President Donald Trump strongly supports the construction of data centers across the United States as a way to build America\u2019s economic future.\n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q18:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q20",
+      "text": "Data centers provide technological advancements that help support hospitals and improve healthcare outcomes.",
+      "full_text": "Data centers provide technological advancements that help support hospitals and improve healthcare outcomes.\n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q20:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q21",
+      "text": "Every sector of our economy and our way of life now relies heavily on data centers used by our military, first responders, financial markets, large and small businesses, and even the phone in your pocket.",
+      "full_text": "Every sector of our economy and our way of life now relies heavily on data centers used by our military, first responders, financial markets, large and small businesses, and even the phone in your pocket.\n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q21:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q22",
+      "text": "Data centers in our local community would improve our position in a global tech economy.",
+      "full_text": "Data centers in our local community would improve our position in a global tech economy.\n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q22:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q23",
+      "text": "Data centers provide thousands of temporary construction jobs that will benefit local restaurants, hotels and small businesses.",
+      "full_text": "Data centers provide thousands of temporary construction jobs that will benefit local restaurants, hotels and small businesses. \n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q23:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q24",
+      "text": "Data centers that are based in the United States help protect our national security and win the global technology race against China.",
+      "full_text": "Data centers that are based in the United States help protect our national security and win the global technology race against China.\n\nMore likely\nLess likely\nNo difference\n\nSometimes in a survey like this, people\u2019s opinion change. I will ask you a couple of questions once more.",
+      "category": "demographics",
+      "source": "IL geos instrument (5)",
+      "marker": "Q24:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q25",
+      "text": "If your local government were considering approving plans for the construction of a data center, would you support or oppose this project? Support Oppose Not sure/would still need more information",
+      "full_text": "If your local government were considering approving plans for the construction of a data center, would you support or oppose this project?\n\nSupport\nOppose\nNot sure/would still need more information",
+      "category": "policy",
+      "source": "IL geos instrument (5)",
+      "marker": "Q25:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q26",
+      "text": "What is your opinion of data centers?",
+      "full_text": "What is your opinion of data centers?\n\nFavorable\nUnfavorable\nNo opinion\n\n\nI will now read you a few more statements you may hear about data center projects. Please indicate if you would be more likely or less likely to support a data center project in your area.\n\nQ27 [Illinois Counties]: Data centers aren\u2019t known to be polluters, but any sort of land use change from agriculture to light industry causes concern for soil and water conservation. Some say this could impact the local wildlife and the",
+      "category": "favorability",
+      "source": "IL geos instrument (5)",
+      "marker": "Q26:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q29",
+      "text": "Data centers may be a strain on local emergency services, particularly if a fire or other catastrophic event happened on the site.",
+      "full_text": "Data centers may be a strain on local emergency services, particularly if a fire or other catastrophic event happened on the site.\n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q29:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q30",
+      "text": "While some claim that data centers don\u2019t raise electric rates, consumers pay for upgrades to the grid that must occur for data centers to be established in our area.",
+      "full_text": "While some claim that data centers don\u2019t raise electric rates, consumers pay for upgrades to the grid that must occur for data centers to be established in our area. \n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q30:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q31",
+      "text": "Data centers cause noise pollution.",
+      "full_text": "Data centers cause noise pollution. \n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q31:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q32",
+      "text": "Data centers cause light pollution.",
+      "full_text": "Data centers cause light pollution. \n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q32:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q33",
+      "text": "Once construction is complete, data centers do not create very many permanent jobs.",
+      "full_text": "Once construction is complete, data centers do not create very many permanent jobs.\n\nMore likely\nLess likely\nNo difference\n\nAgain, sometimes in a survey like this, people\u2019s opinion change. I will ask you a couple of questions one last time.",
+      "category": "other",
+      "source": "IL geos instrument (5)",
+      "marker": "Q33:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q35",
+      "text": "If your local government were considering approving plans for the construction of a data center, would you support or oppose this project? Support Oppose Not sure/would still need more information",
+      "full_text": "If your local government were considering approving plans for the construction of a data center, would you support or oppose this project?\n\nSupport\nOppose\nNot sure/would still need more information",
+      "category": "policy",
+      "source": "IL geos instrument (5)",
+      "marker": "Q35:"
+    },
+    {
+      "id": "IL geos instrument (5)_Q36",
+      "text": "What is your opinion of data centers?",
+      "full_text": "What is your opinion of data centers?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "IL geos instrument (5)",
+      "marker": "Q36:"
+    },
+    {
+      "id": "IL geos instrument (5)_Demographics",
+      "text": "Educational attainment Union Household Homeowner/Renter/Other [GENDER] [PARTY ID] [IDEOLOGY] [AGE] [GEOGRAPHY]",
+      "full_text": "Educational attainment\nUnion Household\nHomeowner/Renter/Other\n[GENDER]\n[PARTY ID]\n[IDEOLOGY]\n[AGE]\n[GEOGRAPHY]",
+      "category": "demographics",
+      "source": "IL geos instrument (5)",
+      "marker": "Demographics:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_SCREEN",
+      "text": "Do you plan to vote in the 2028 Republican Presidential Primary?",
+      "full_text": "Do you plan to vote in the 2028 Republican Presidential Primary?\u2028\nYes\nNo [END CALL]",
+      "category": "screener",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "SCREEN:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q1",
+      "text": "What is your opinion of Donald Trump?",
+      "full_text": "What is your opinion of Donald Trump?\n\nVery Favorable\u2028Somewhat Favorable\u2028Somewhat Unfavorable\nVery Unfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q2",
+      "text": "What is your opinion of Ted Cruz?",
+      "full_text": "What is your opinion of Ted Cruz?\n\nVery Favorable\u2028Somewhat Favorable\u2028Somewhat Unfavorable\nVery Unfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q3",
+      "text": "What is your opinion of Marco Rubio?",
+      "full_text": "What is your opinion of Marco Rubio?\n\nVery Favorable\u2028Somewhat Favorable\u2028Somewhat Unfavorable\nVery Unfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q4",
+      "text": "What is your opinion of JD Vance?",
+      "full_text": "What is your opinion of JD Vance?\n\nVery Favorable\u2028Somewhat Favorable\u2028Somewhat Unfavorable\nVery Unfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q5",
+      "text": "What is your opinion of Kristi Noem?",
+      "full_text": "What is your opinion of Kristi Noem?\n\nVery Favorable\u2028Somewhat Favorable\u2028Somewhat Unfavorable\nVery Unfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q5:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q6",
+      "text": "What is your opinion of Sarah Huckabee Sanders?",
+      "full_text": "What is your opinion of Sarah Huckabee Sanders?\n\nVery Favorable\u2028Somewhat Favorable\u2028Somewhat Unfavorable\nVery Unfavorable\nNo opinion\u2028\u2028Q7: What is your opinion of Josh Hawley?\n\nVery Favorable\u2028Somewhat Favorable\u2028Somewhat Unfavorable\nVery Unfavorable\nNo opinion\u2028\u2028Q8: What is your opinion of Glenn Youngkin?\n\nVery Favorable\u2028Somewhat Favorable\u2028Somewhat Unfavorable\nVery Unfavorable\nNo opinion\u2028\u2028Q9: What is your opinion of Ron DeSantis?\n\nVery Favorable\u2028Somewhat Favorable\u2028Somewhat Unfavorable\nVery Unfavorab",
+      "category": "favorability",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q10",
+      "text": "What is your opinion of Steve Bannon?",
+      "full_text": "What is your opinion of Steve Bannon?\n\nVery Favorable\u2028Somewhat Favorable\u2028Somewhat Unfavorable\nVery Unfavorable\nNo opinion\u2028\u2028Q11: What is your opinion of Tucker Carlson?\n\nVery Favorable\u2028Somewhat Favorable\u2028Somewhat Unfavorable\nVery Unfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q10:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q12",
+      "text": "Do you approve or disapprove of the job JD Vance is doing as Vice President?\u2028\u2028Strongly Approve\u2028Somewhat Approve\u2028Somewhat Disapprove\u2028Strongly Disapprove\u2028Not sure\u2028\u2028Q13: Do you approve or disapprove of the job Marco Rubio is doing as Secretary of State?\u2028\u2028Strongly Approve\u2028Somewhat Approve\u2028Somewhat Disapprove\u2028Strongly Disapprove\u2028Not sure",
+      "full_text": "Do you approve or disapprove of the job JD Vance is doing as Vice President?\u2028\u2028Strongly Approve\u2028Somewhat Approve\u2028Somewhat Disapprove\u2028Strongly Disapprove\u2028Not sure\u2028\u2028Q13: Do you approve or disapprove of the job Marco Rubio is doing as Secretary of State?\u2028\u2028Strongly Approve\u2028Somewhat Approve\u2028Somewhat Disapprove\u2028Strongly Disapprove\u2028Not sure",
+      "category": "job_approval",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q12:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q14",
+      "text": "Possible candidates in the 2028 Republican Primary for President are Steve Bannon, Ted Cruz, Ron DeSantis, Josh Hawley, Sarah Huckabee Sanders, Kristi Noem, Marco Rubio, JD Vance and Glenn Youngkin. If the caucus were held today, who would you support?\u2028\u2028Steve Bannon\u2028Ted Cruz\u2028Ron DeSantis\u2028Josh Hawley\u2028Sarah Huckabee Sanders\u2028Kristi Noem\u2028Marco Rubio\u2028JD Vance\u2028Glenn Youngkin\u2028Undecided",
+      "full_text": "Possible candidates in the 2028 Republican Primary for President are Steve Bannon, Ted Cruz, Ron DeSantis, Josh Hawley, Sarah Huckabee Sanders, Kristi Noem, Marco Rubio, JD Vance and Glenn Youngkin. If the caucus were held today, who would you support?\u2028\u2028Steve Bannon\u2028Ted Cruz\u2028Ron DeSantis\u2028Josh Hawley\u2028Sarah Huckabee Sanders\u2028Kristi Noem\u2028Marco Rubio\u2028JD Vance\u2028Glenn Youngkin\u2028Undecided",
+      "category": "top_of_ballot",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q14:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q15",
+      "text": "Thinking about the future Republican nominee for President, do you want that person to continue President Trump\u2019s Make America Great Again movement; OR, do you want that person to forge a new path for Republicans?\u2028\u2028Continue MAGA\u2028Forge new path\u2028Not sure\u2028\u2028Q16: Do you think President Trump should endorse a candidate to be his successor; OR, should he leave it to the voters to pick?\u2028\u2028President Trump should endorse\u2028Leave it to the voters\u2028Not sure\u2028\u2028Q17: Would you definitely support President Donald Trump\u2019s endorsed candidate, regardless of who runs, OR would you consider the other candidates OR would you vote for a different candidate, regardless of who runs?\u2028\u2028Definitely support President Trump\u2019s endorsed candidate\u2028Consider the other candidates\u2028Vote for a different candidate\u2028Not sure",
+      "full_text": "Thinking about the future Republican nominee for President, do you want that person to continue President Trump\u2019s Make America Great Again movement; OR, do you want that person to forge a new path for Republicans?\u2028\u2028Continue MAGA\u2028Forge new path\u2028Not sure\u2028\u2028Q16: Do you think President Trump should endorse a candidate to be his successor; OR, should he leave it to the voters to pick?\u2028\u2028President Trump should endorse\u2028Leave it to the voters\u2028Not sure\u2028\u2028Q17: Would you definitely support President Donald Tr",
+      "category": "other",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q15:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q18",
+      "text": "Would you definitely support Donald Trump Junior for President, regardless of who runs, OR would you consider the other candidates OR would you vote for a different candidate, regardless of who runs?\u2028\u2028Definitely support Donald Trump Junior\u2028Consider the other candidates\u2028Vote for a different candidate\u2028Not sure\u2028\u2028Q19: Would you definitely support Lara Trump for President, regardless of who runs, OR would you consider the other candidates OR would you vote for a different candidate, regardless of who runs?\u2028\u2028Definitely support Lara Trump\u2028Consider the other candidates\u2028Vote for a different candidate\u2028Not sure",
+      "full_text": "Would you definitely support Donald Trump Junior for President, regardless of who runs, OR would you consider the other candidates OR would you vote for a different candidate, regardless of who runs?\u2028\u2028Definitely support Donald Trump Junior\u2028Consider the other candidates\u2028Vote for a different candidate\u2028Not sure\u2028\u2028Q19: Would you definitely support Lara Trump for President, regardless of who runs, OR would you consider the other candidates OR would you vote for a different candidate, regardless of who",
+      "category": "other",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q18:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q20",
+      "text": "If JD Vance were to pick President Donald Trump as his Vice President, would you definitely vote for JD Vance or would you consider the other Republican candidates?\u2028\u2028Definitely vote for JD Vance\u2028Consider the other Republicans\u2028Not sure\u2028\u2028Q21: Do you support or oppose an amendment to the Constitution to allow President Donald Trump to serve a third term in office?\u2028\u2028Support\u2028Oppose\u2028Not sure",
+      "full_text": "If JD Vance were to pick President Donald Trump as his Vice President, would you definitely vote for JD Vance or would you consider the other Republican candidates?\u2028\u2028Definitely vote for JD Vance\u2028Consider the other Republicans\u2028Not sure\u2028\u2028Q21: Do you support or oppose an amendment to the Constitution to allow President Donald Trump to serve a third term in office?\u2028\u2028Support\u2028Oppose\u2028Not sure",
+      "category": "policy",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q20:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q22",
+      "text": "Do you think the Epstein files should be made public in their entirety?\u2028\u2028Strongly YES, make them all public",
+      "full_text": "Do you think the Epstein files should be made public in their entirety?\u2028\u2028Strongly YES, make them all public\nSomewhat YES\u2028Somewhat NO, do not make them public\u2028Strongly NO, do not make them public\u2028Not sure",
+      "category": "other",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q22:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q23",
+      "text": "Do you agree or disagree with President Trump\u2019s policy in regards to trade and tariffs?\u2028\u2028Strongly Agree\u2028Somewhat Agree\u2028Somewhat Disagree\u2028Strongly Disagree\u2028Not sure\u2028\u2028Q24: Do you approve or disapprove of the job President Trump is doing with the Israel/Palestine conflict?\u2028\u2028Strongly Approve\u2028Somewhat Approve\u2028Somewhat Disapprove\u2028Strongly Disapprove\u2028Not sure",
+      "full_text": "Do you agree or disagree with President Trump\u2019s policy in regards to trade and tariffs?\u2028\u2028Strongly Agree\u2028Somewhat Agree\u2028Somewhat Disagree\u2028Strongly Disagree\u2028Not sure\u2028\u2028Q24: Do you approve or disapprove of the job President Trump is doing with the Israel/Palestine conflict?\u2028\u2028Strongly Approve\u2028Somewhat Approve\u2028Somewhat Disapprove\u2028Strongly Disapprove\u2028Not sure",
+      "category": "job_approval",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q23:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q25",
+      "text": "Do you approve or disapprove of the job President Trump is doing with the Russia/Ukraine conflict?\u2028\u2028Strongly Approve\u2028Somewhat Approve\u2028Somewhat Disapprove\u2028Strongly Disapprove\u2028Not sure",
+      "full_text": "Do you approve or disapprove of the job President Trump is doing with the Russia/Ukraine conflict?\u2028\u2028Strongly Approve\u2028Somewhat Approve\u2028Somewhat Disapprove\u2028Strongly Disapprove\u2028Not sure",
+      "category": "job_approval",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q25:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q26",
+      "text": "Should the United States fund and/or help Ukraine in their war with Russia?\u2028\u2028Strongly YES",
+      "full_text": "Should the United States fund and/or help Ukraine in their war with Russia?\u2028\u2028Strongly YES\nSomewhat YES\u2028Somewhat NO\u2028Strongly NO\u2028Not sure",
+      "category": "other",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q26:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q27",
+      "text": "Which of the following best describes your opinion on the Israel conflict?\u2028\u2028The United States should continue supporting Israel in its conflicts financially and militarily \u2028\u2028The United States should encourage Israel to end the conflicts but continue supporting them to preserve the Holy Land\u2028\u2028The United States should stop funding Israel entirely and force them to make a deal with Palestine, even if it means giving up the Holy Land\u2028\u2028Not sure\u2028\u2028Q28: Now that President Trump has closed the border, which of the following best describes your opinion on immigration?\u2028\u2028Continue active deportations of all illegals and work visa overstays, no matter the situation\u2028\u2028Only deport illegals who have committed crimes, but let the hard workers continue to stay, but without legal status\u2028\u2028Deport criminals and give hard workers a pathway to citizenship\u2028\u2028Not sure",
+      "full_text": "Which of the following best describes your opinion on the Israel conflict?\u2028\u2028The United States should continue supporting Israel in its conflicts financially and militarily \u2028\u2028The United States should encourage Israel to end the conflicts but continue supporting them to preserve the Holy Land\u2028\u2028The United States should stop funding Israel entirely and force them to make a deal with Palestine, even if it means giving up the Holy Land\u2028\u2028Not sure\u2028\u2028Q28: Now that President Trump has closed the border, wh",
+      "category": "issue",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q27:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q29",
+      "text": "Do you support or oppose President Trump\u2019s efforts to have individual states redraw their congressional districts in order to give Republicans more seats in Congress?\u2028\u2028Strongly Support\u2028Somewhat Support\u2028Somewhat Oppose\u2028Strongly Oppose\u2028Not sure",
+      "full_text": "Do you support or oppose President Trump\u2019s efforts to have individual states redraw their congressional districts in order to give Republicans more seats in Congress?\u2028\u2028Strongly Support\u2028Somewhat Support\u2028Somewhat Oppose\u2028Strongly Oppose\u2028Not sure",
+      "category": "policy",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q29:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_Q30",
+      "text": "Which of the following do you believe was/is the best Republican president? Abraham Lincoln Ronald Reagan Donald Trump",
+      "full_text": "Which of the following do you believe was/is the best Republican president?\n\nAbraham Lincoln\nRonald Reagan\nDonald Trump\nNot sure",
+      "category": "other",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "Q30:"
+    },
+    {
+      "id": "Cruz Nat'l Survey Instrument 082125 v2 (3)_DEMOGRAPHICS",
+      "text": "GOP Ideology: Do you consider yourself to be Very Conservative, Somewhat Conservative, Moderate, or Liberal?\u2028\u2028Very Conservative\u2028Somewhat Conservative\u2028Moderate\u2028Liberal GOP Typology: Thinking about the various types of voters in the Republican Party, Which type of Republican do you consider yourself to be? A Trump Republican, an Evangelical Christian Republican, a Traditional Republican, a Libertarian or something else?\u2028\u2028Trump Republican\u2028Evangelical Christian Republican\u2028Traditional Republican\u2028Libertarian\u2028something else Gender: Are you a woman or a man?\u2028\u2028Woman\u2028Man Age: Which age range do you fall in? \u2028\u202818-29 years old\u202830-39 years old\u202840-54 years old\u202855-69 years old\u202870 years or older DMA [HARDCODED IN DATA]",
+      "full_text": "GOP Ideology: Do you consider yourself to be Very Conservative, Somewhat Conservative, Moderate, or Liberal?\u2028\u2028Very Conservative\u2028Somewhat Conservative\u2028Moderate\u2028Liberal\u2028\nGOP Typology: Thinking about the various types of voters in the Republican Party, Which type of Republican do you consider yourself to be? A Trump Republican, an Evangelical Christian Republican, a Traditional Republican, a Libertarian or something else?\u2028\u2028Trump Republican\u2028Evangelical Christian Republican\u2028Traditional Republican\u2028Lib",
+      "category": "demographics",
+      "source": "Cruz Nat'l Survey Instrument 082125 v2 (3)",
+      "marker": "DEMOGRAPHICS:"
+    },
+    {
+      "id": "new oh hwa poll (5)_Q1",
+      "text": "The Ohio Legislature is considering a bill that will allow registered veterinary technicians to administer preventative vaccines to pets, including the rabies vaccine, and anti-parasitic medications without pet owners having to first establish care for their pet with a licensed veterinarian. Do you support or oppose this bill? Support Oppose",
+      "full_text": "The Ohio Legislature is considering a bill that will allow registered veterinary technicians to administer preventative vaccines to pets, including the rabies vaccine, and anti-parasitic medications without pet owners having to first establish care for their pet with a licensed veterinarian. Do you support or oppose this bill?\n\nSupport\nOppose\nNot sure",
+      "category": "policy",
+      "source": "new oh hwa poll (5)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "new oh hwa poll (5)_Q2",
+      "text": "Registered veterinary technicians are rigorously trained and skilled to provide certain essential pet wellness care like administering the rabies vaccine. This bill increases access to veterinary care and allows veterinarians the option to fully utilize veterinary technicians while freeing the veterinarian up to address critical care needs. Does knowing this make you more or less likely to support the bill?",
+      "full_text": "Registered veterinary technicians are rigorously trained and skilled to provide certain essential pet wellness care like administering the rabies vaccine. This bill increases access to veterinary care and allows veterinarians the option to fully utilize veterinary technicians while freeing the veterinarian up to address critical care needs. Does knowing this make you more or less likely to support the bill? \n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "new oh hwa poll (5)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "new oh hwa poll (5)_Q3",
+      "text": "Because of the significant shortage of veterinarians in Ohio, some pet owners have to travel long distances and pay more just to get basic care for their pet. This bill would expand the availability of essential wellness and preventative care to pets who may not otherwise be able to receive care, and it would make it more affordable. Does knowing this make you more or less likely to support the bill?",
+      "full_text": "Because of the significant shortage of veterinarians in Ohio, some pet owners have to travel long distances and pay more just to get basic care for their pet. This bill would expand the availability of essential wellness and preventative care to pets who may not otherwise be able to receive care, and it would make it more affordable. Does knowing this make you more or less likely to support the bill? \n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "new oh hwa poll (5)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "new oh hwa poll (5)_Q4",
+      "text": "This bill empowers veterinarians to choose if they want to allow their registered veterinary technicians to expand services they can provide outside of traditional brick-and-mortar clinics, instead providing services at pop-up events and mobile clinics that brings essential wellness care directly to pet owners. This will increase the number of pets receiving vaccinations and preventative veterinary care, especially for Ohioans in rural or underserved areas. Does knowing this make you more or less likely to support the bill?",
+      "full_text": "This bill empowers veterinarians to choose if they want to allow their registered veterinary technicians to expand services they can provide outside of traditional brick-and-mortar clinics, instead providing services at pop-up events and mobile clinics that brings essential wellness care directly to pet owners. This will increase the number of pets receiving vaccinations and preventative veterinary care, especially for Ohioans in rural or underserved areas. Does knowing this make you more or les",
+      "category": "other",
+      "source": "new oh hwa poll (5)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "new oh hwa poll (5)_Q5",
+      "text": "Right now, anyone can call themselves a veterinary technician regardless of whether they have met the educational and examination requirements to be registered/credentialed in the state which erodes public trust and jeopardizes quality of care. This bill clarifies that only those individuals who are qualified and licensed as veterinary technicians may use that title, providing better protection for both the public and pets. Does knowing this make you more or less likely to support the bill?",
+      "full_text": "Right now, anyone can call themselves a veterinary technician regardless of whether they have met the educational and examination requirements to be registered/credentialed in the state which erodes public trust and jeopardizes quality of care. This bill clarifies that only those individuals who are qualified and licensed as veterinary technicians may use that title, providing better protection for both the public and pets. Does knowing this make you more or less likely to support the bill?\n\nMor",
+      "category": "demographics",
+      "source": "new oh hwa poll (5)",
+      "marker": "Q5:"
+    },
+    {
+      "id": "new oh hwa poll (5)_Q6",
+      "text": "This bill protects public health by making it easier and more affordable for pets to get vaccinated against dangerous diseases, such as rabies. Does knowing this make you more or less likely to support the bill?",
+      "full_text": "This bill protects public health by making it easier and more affordable for pets to get vaccinated against dangerous diseases, such as rabies. Does knowing this make you more or less likely to support the bill? \n\nMore likely\nLess likely\nNo difference\n\nQ6A: In the past year, have you delayed or gone without veterinary care for your pet(s) because of cost or inability to access veterinary services?\n\nYes\nNo\nNot sure\n \nNow sometimes, in a survey like this, people change their minds. I will read you",
+      "category": "other",
+      "source": "new oh hwa poll (5)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "new oh hwa poll (5)_Q7",
+      "text": "The Ohio Legislature is considering a bill that will allow registered veterinary technicians to administer preventative vaccines to pets, including the rabies vaccine, and anti-parasitic medications without pet owners having to first establish care for their pet with a licensed veterinarian. Do you support or oppose this bill? Support Oppose",
+      "full_text": "The Ohio Legislature is considering a bill that will allow registered veterinary technicians to administer preventative vaccines to pets, including the rabies vaccine, and anti-parasitic medications without pet owners having to first establish care for their pet with a licensed veterinarian. Do you support or oppose this bill?\n\nSupport\nOppose\nNot sure",
+      "category": "policy",
+      "source": "new oh hwa poll (5)",
+      "marker": "Q7:"
+    },
+    {
+      "id": "new oh hwa poll (5)_DEMOGRAPHICS",
+      "text": "PARTY IDEOLOGY GENDER AGE RACE (White, Black, other)",
+      "full_text": "PARTY\nIDEOLOGY\nGENDER\nAGE\nRACE (White, Black, other)",
+      "category": "demographics",
+      "source": "new oh hwa poll (5)",
+      "marker": "DEMOGRAPHICS:"
+    },
+    {
+      "id": "Gill 119_Survey Questions_October 2025[79] (2)_Q6",
+      "text": "Do you appr ove or disappr ove of Brandon Gill\u2019s work as your Unit ed States Congr essman? Strongly Appr ove:  Some wha t Appr ove:  Strongly Disappr ove:  Some wha t Disappr ove:  Not sure:  Q7: Do you appr ove or disappr ove of the governmen t shut down? Strongly Appr ove:  Some wha t Appr ove:  Strongly Disappr ove:  Some wha t Disappr ove:  Not sure:  Q8: Do you appr ove or disappr ove of the Working Family Tax Cut? Strongly Appr ove:  Some wha t Appr ove:  Strongly Disappr ove:  Some wha t Disappr ove:  Not sure:  Q9: Which of these provisions of the Working Families Tax Cut do you support mos t?  Border Funding: Mass Deport ations: No Tax on Tips: No Tax on Social Security: Mak es Presiden t Trump\u2019 s Tax Cuts Permanen t: Reduces the National Debt: Ends Funding for Planned Parenthood: Unleashes Americ an Ener gy Independence: Reforming Medic aid and SNAP: Other:  Q10: Which of these provisions of the Working Families Tax Cut do you support least? Border Funding: Mass Deport ations: No Tax on Tips: No Tax on Social Security: Mak es Presiden t Trump\u2019 s Tax Cuts Permanen t: Reduces the National Debt: Ends Funding for Planned Parenthood: Unleashes Americ an Ener gy Independence: Reforming Medic aid and SNAP: Other:  Q11: Wha t do you belie ve should be Congr ess\u2019 top priority moving forward? Health care:  Taxes: Inflation & Econom y: Veterans Issues:  Defense & National Security:  Immigr ation & Border Security:  Support for Israel: National Debt:  Protecting Life: Education: Entitlemen t Reform: Some thing else:   I will now read you a pair of statemen ts. After hearing each statemen t, please indic ate if you would be more or less likely to have a favorable opinion of Congressman Brandon Gill. Or please indic ate if the statemen t mak es no differenc e to you.",
+      "full_text": "Do you appr ove or disappr ove of Brandon Gill\u2019s work as your Unit ed States Congr essman? Strongly Appr ove:  Some wha t Appr ove:  Strongly Disappr ove:  Some wha t Disappr ove:  Not sure:  Q7: Do you appr ove or disappr ove of the governmen t shut down? Strongly Appr ove:  Some wha t Appr ove:  Strongly Disappr ove:  Some wha t Disappr ove:  Not sure:  Q8: Do you appr ove or disappr ove of the Working Family Tax Cut? Strongly Appr ove:  Some wha t Appr ove:  Strongly Disappr ove:  Some wha t ",
+      "category": "demographics",
+      "source": "Gill 119_Survey Questions_October 2025[79] (2)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "Gill 119_Survey Questions_October 2025[79] (2)_Q12",
+      "text": "Congr essman Brandon Gill voted to stop the largest tax hike in Americ an history and to mak e permanen t Presiden t Trump\u2019 s tax policies that protect working families. Does knowing this give you a more favorable, or less favorable opinion of Congr essman Brandon Gill, or does it mak e no difference at all? Mor e Favorable: Less Favorable:  No Difference:   Q13: Congr essman Brandon Gill voted to fund the comple tion of the border wall, along with funding to hire additional ICE agents that work to deport illegal aliens from our country. Does knowing this give you a more favorable, or less favorable opinion of Congr essman Brandon Gill, or does it mak e no difference at all? Mor e Favorable: Less Favorable:  No Difference:   Q14: Congr essman Brandon Gill voted to end feder al funding for state-sponsor ed media, including NPR and PBS. Does knowing this give you a more favorable, or less favorable opinion of Congr essman Brandon Gill, or does it mak e no difference at all? Mor e Favorable: Less Favorable:  No Difference:   Q15. Congr essman Brandon Gill introduced a bill to codify Presiden t Trump\u2019 s Remain in Mexico policy , and introduced multiple bills to codify Presiden t Trump\u2019 s policies. Does knowing this give you a more favorable, or less favorable opinion of Congr essman Brandon Gill, or does it mak e no difference at all? Mor e Favorable: Less Favorable:  No Difference:   Q16: Congr essman Brandon Gill returned $__ to Texas\u2019 26th District and resolv ed X constituen t cases since taking office. Does knowing this give you a more favorable, or less favorable opinion of Congr essman Brandon Gill, or does it mak e no difference at all? Mor e Favorable: Less Favorable:  No Difference:   Q17: After hearing these things about Congr essman Brandon Gill, do you appr ove or disappr ove of Brandon Gill\u2019s work as your Unit ed States Congr essman? Strongly Appr ove:  Some wha t Appr ove:  Strongly Disappr ove:  Some wha t Disappr ove:  Not sure:  Q18: How much have you seen, read or hear d recen tly about your Congr essman Brandon Gill? A lot: Just some:  Nothing at all:  Other:    Q19: Now, wher e do you typic ally see, read or hear about your Congr essman Brandon Gill? Email:  Mail:  Local newspaper:  Facebook, Instagram, X (formerly Twitter) or other social media outle ts:  Radio: Online news sour ce:  Local or cable TV:  Congr essman Gill public appear ance:  Other:  Not sure:",
+      "full_text": "Congr essman Brandon Gill voted to stop the largest tax hike in Americ an history and to \nmak e\n \npermanen t\n \nPresiden t\n \nTrump\u2019 s\n \ntax\n \npolicies\n \nthat\n \nprotect\n \nworking\n \nfamilies.\n \nDoes\n \nknowing\n \nthis\n \ngive\n \nyou\n \na\n \nmore\n \nfavorable,\n \nor\n \nless\n \nfavorable\n \nopinion\n \nof\n \nCongr essman\n \nBrandon\n \nGill,\n \nor\n \ndoes\n \nit\n \nmak e\n \nno\n \ndifference\n \nat\n \nall?\n \n  Mor e Favorable: Less Favorable:  No Difference:   Q13: Congr essman Brandon Gill voted to fund the comple tion of the ",
+      "category": "demographics",
+      "source": "Gill 119_Survey Questions_October 2025[79] (2)",
+      "marker": "Q12:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q1",
+      "text": "In the past 12 months, have you experienced delays in scheduling an appointment for any healthcare services? Yes [GO TO Q2] No [GO TO Q3] Not applicable/not sure [GO TO Q3]",
+      "full_text": "In the past 12 months, have you experienced delays in scheduling an appointment for any healthcare services?\n\nYes [GO TO Q2]\nNo [GO TO Q3]\nNot applicable/not sure [GO TO Q3]",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q2",
+      "text": "How long was the delay in scheduling your appointment? Less than 1 week 1-2 weeks 2-4 weeks More than 4 weeks Not sure/don\u2019t remember",
+      "full_text": "How long was the delay in scheduling your appointment?\n\nLess than 1 week\n1-2 weeks\n2-4 weeks\nMore than 4 weeks\nNot sure/don\u2019t remember",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q3",
+      "text": "Have you noticed any increase in the time it takes to get an appointment compared to previous years? Yes, significantly longer Yes, slightly longer No, about the same No, shorter wait times",
+      "full_text": "Have you noticed any increase in the time it takes to get an appointment compared to previous years?\n\nYes, significantly longer\nYes, slightly longer\nNo, about the same\nNo, shorter wait times\nNot sure",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q4",
+      "text": "Have you had any difficulty in finding a physician who accepts Medicare? Yes [GO TO Q5] No [GO TO Q6] Not applicable/not sure [GO TO Q6]",
+      "full_text": "Have you had any difficulty in finding a physician who accepts Medicare?\n\nYes [GO TO Q5]\nNo [GO TO Q6]\nNot applicable/not sure [GO TO Q6]",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q5",
+      "text": "How long did it take you to find a physician who accepts Medicare? Less than 1 month 1-3 months More than 3 months Still searching",
+      "full_text": "How long did it take you to find a physician who accepts Medicare?\n\nLess than 1 month\n1-3 months\nMore than 3 months\nStill searching\nNot sure",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q5:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q6",
+      "text": "From 2021 to 2025, Medicare physician payments have declined 33%, while practice costs have increased 3.5%. How concerned are you that this differential may lead to office closures or consolidations, potentially limiting your access to quality healthcare and diagnostic screenings?",
+      "full_text": "From 2021 to 2025, Medicare physician payments have declined 33%, while practice costs have increased 3.5%. How concerned are you that this differential may lead to office closures or consolidations, potentially limiting your access to quality healthcare and diagnostic screenings?   \n\nVery concerned\nSomewhat concerned\nNot very concerned\nNot concerned at all\nNot sure",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q7",
+      "text": "Have you considered changing your Medicare plan or supplemental insurance due to concerns about access to care?",
+      "full_text": "Have you considered changing your Medicare plan or supplemental insurance due to concerns about access to care?\n\nYes\nNo\nNot sure",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q7:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q12",
+      "text": "Recent Medicaid changes under the One Big Beautiful Bill Act (OBBA) may result in reduced coverage, stricter eligibility requirements, and increased out-of-pocket costs for millions of Americans. How concerned are you?",
+      "full_text": "Recent Medicaid changes under the One Big Beautiful Bill Act (OBBA) may result in reduced coverage, stricter eligibility requirements, and increased out-of-pocket costs for millions of Americans. How concerned are you?\n\nVery concerned\nSomewhat concerned\nNot very concerned\nNot at all concerned\nNot sure/need more information",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q12:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q13",
+      "text": "Do you agree or disagree with the government\u2019s proposal to pay less for mammography, MRIs, and other lifesaving imaging procedures done at hospitals? Agree Disagree",
+      "full_text": "Do you agree or disagree with the government\u2019s proposal to pay less for mammography, MRIs, and other lifesaving imaging procedures done at hospitals?\n\nAgree\nDisagree\nNot sure",
+      "category": "policy",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q13:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q14",
+      "text": "How concerned are you that proposed US tariffs on imported medical equipment, supplies, and pharmaceuticals may limit healthcare providers\u2019 ability to upgrade technology or maintain access to essential diagnostic tools and treatments?",
+      "full_text": "How concerned are you that proposed US tariffs on imported medical equipment, supplies, and pharmaceuticals may limit healthcare providers\u2019 ability to upgrade technology or maintain access to essential diagnostic tools and treatments?\n\nVery concerned\nSomewhat concerned\nNot very concerned\nNot at all concerned\nNot sure/need more information",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q14:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q8",
+      "text": "If you could send a message to Congress about current Medicare physician payment cuts, what would you want them to know about how these cuts are impacting your health care? [CAPTURE VERBATIM]",
+      "full_text": "If you could send a message to Congress about current Medicare physician payment cuts, what would you want them to know about how these cuts are impacting your health care? [CAPTURE VERBATIM]",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q8:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q9",
+      "text": "Have you received your mammogram the past three years in a row? [FEMALE ONLY]",
+      "full_text": "Have you received your mammogram the past three years in a row? [FEMALE ONLY]\n\nYes\nNo\nNot sure",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q9:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q10",
+      "text": "Over the past three years, have you at any point missed or been forced to reschedule your mammogram? [FEMALE ONLY]",
+      "full_text": "Over the past three years, have you at any point missed or been forced to reschedule your mammogram? [FEMALE ONLY]\n\nYes\nNo\nNot sure",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q10:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q11",
+      "text": "Has a secondary screening been recommended to you, but you chose not to schedule an appointment due to the out-of-pocket costs associated with the screening? [FEMALE ONLY]",
+      "full_text": "Has a secondary screening been recommended to you, but you chose not to schedule an appointment due to the out-of-pocket costs associated with the screening? [FEMALE ONLY]\n\nYes\nNo\nNot applicable/a secondary screening was not recommended to me",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q11:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_Q15",
+      "text": "In the past two years, have you experienced any of the following barriers to access for any healthcare services, including vital diagnostic imaging like mammography or an MRI? [SELECT ALL THAT APPLY] Closure of doctor\u2019s office or imaging center Having to travel farther for imaging care Longer times to schedule imaging care Longer office wait times to receive imaging care Longer times awaiting results of imaging exams Last-minute cancellation or rescheduling of imaging exams Other [CAPTURE VERBATIM] None of the above",
+      "full_text": "In the past two years, have you experienced any of the following barriers to access for any healthcare services, including vital diagnostic imaging like mammography or an MRI? [SELECT ALL THAT APPLY]\n\nClosure of doctor\u2019s office or imaging center\nHaving to travel farther for imaging care\nLonger times to schedule imaging care\nLonger office wait times to receive imaging care\nLonger times awaiting results of imaging exams\nLast-minute cancellation or rescheduling of imaging exams\nOther [CAPTURE VERBA",
+      "category": "other",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "Q15:"
+    },
+    {
+      "id": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)_DEMOGRAPHICS",
+      "text": "PARTY IDEOLOGY GENDER RACE EDUCATION INCOME RURAL/URBAN",
+      "full_text": "PARTY\nIDEOLOGY\nGENDER\nRACE\nEDUCATION\nINCOME\nRURAL/URBAN",
+      "category": "demographics",
+      "source": "RBMA-RPAN 2025 Survey Instrument (FINAL) (Remington Branding) (9)",
+      "marker": "DEMOGRAPHICS:"
+    },
+    {
+      "id": "OHIO POLL (3)_Q1",
+      "text": "In general, do you believe the United States is headed in the right direction, or is it on the wrong track? Right direction: % Wrong track: % Not sure: %",
+      "full_text": "In general, do you believe the United States is headed in the right direction, or is it on the wrong track?\n \nRight direction: %\nWrong track: %\nNot sure: %",
+      "category": "other",
+      "source": "OHIO POLL (3)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "OHIO POLL (3)_Q2",
+      "text": "Overall, do you approve or disapprove of Ohio Governor DeWine\u2019s job performance? Approve: % Disapprove: % Not sure: %",
+      "full_text": "Overall, do you approve or disapprove of Ohio Governor DeWine\u2019s job performance?\n \nApprove: %\nDisapprove: %\nNot sure: %",
+      "category": "job_approval",
+      "source": "OHIO POLL (3)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "OHIO POLL (3)_Q3",
+      "text": "In the 2024 election, did you vote for: Donald Trump: % Kamala Harris: % Other: % Don\u2019t remember: %",
+      "full_text": "In the 2024 election, did you vote for:\n \nDonald Trump: %\nKamala Harris: %\nOther: %\nDon\u2019t remember: %",
+      "category": "other",
+      "source": "OHIO POLL (3)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "OHIO POLL (3)_Q4",
+      "text": "Overall, do you approve or disapprove of President Trump\u2019s job performance? Approve: % Disapprove: % Not sure: %",
+      "full_text": "Overall, do you approve or disapprove of President Trump\u2019s job performance?\n \nApprove: %\nDisapprove: %\nNot sure: %",
+      "category": "job_approval",
+      "source": "OHIO POLL (3)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "OHIO POLL (3)_Q5",
+      "text": "True or False.  All government employees in Ohio who are represented by a union are NOT required to pay union dues if they oppose the policies of the union. True: % False: % Not sure: % In fact, this is TRUE.  All government employees in Ohio and the United State are NOT required to pay union dues if they oppose the union.  These include public school teachers and local government employees.",
+      "full_text": "True or False.  All government employees in Ohio who are represented by a union are NOT required to pay union dues if they oppose the policies of the union.\n\nTrue: %\nFalse: %\nNot sure: %\n\nIn fact, this is TRUE.  All government employees in Ohio and the United State are NOT required to pay union dues if they oppose the union.  These include public school teachers and local government employees.",
+      "category": "other",
+      "source": "OHIO POLL (3)",
+      "marker": "Q5:"
+    },
+    {
+      "id": "OHIO POLL (3)_Q6",
+      "text": "Now, let\u2019s turn to the private sector. True or False. Private sector workers in Ohio who are represented by a union are NOT required to pay union dues if they oppose the policies of the union. True: % False: % Not sure: % In fact, this is FALSE.  Unlike government workers, private sector workers in Ohio represented by a union MUST pay union dues even if they oppose the union.",
+      "full_text": "Now, let\u2019s turn to the private sector. \nTrue or False. Private sector workers in Ohio who are represented by a union are NOT required to pay union dues if they oppose the policies of the union.\n \nTrue: %\nFalse: %\nNot sure: %\n\nIn fact, this is FALSE.  Unlike government workers, private sector workers in Ohio represented by a union MUST pay union dues even if they oppose the union.",
+      "category": "other",
+      "source": "OHIO POLL (3)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "OHIO POLL (3)_Q7",
+      "text": "Would you support or oppose changing the law so that Ohio private sector workers who are represented by a union are NOT required to pay dues if they oppose the union?",
+      "full_text": "Would you support or oppose changing the law so that Ohio private sector workers who are represented by a union are NOT required to pay dues if they oppose the union?\n\nStrongly support:       %\nSomewhat support:    %\nSomewhat oppose:    %\nStrongly oppose:        %\nNot sure:                    %",
+      "category": "policy",
+      "source": "OHIO POLL (3)",
+      "marker": "Q7:"
+    },
+    {
+      "id": "OHIO POLL (3)_Q8",
+      "text": "Private sector union membership as a percentage of the workforce has declined for over 40 years.  Today, less than 6% of American private sector workers are represented by unions.  Does this make you more or less likely to support giving Ohio workers the choice NOT to pay union dues if they oppose the union? Much more likely  %",
+      "full_text": "Private sector union membership as a percentage of the workforce has declined for over 40 years.  Today, less than 6% of American private sector workers are represented by unions.  Does this make you more or less likely to support giving Ohio workers the choice NOT to pay union dues if they oppose the union?\n\nMuch more likely  %\nSomewhat more likely  %\nSomewhat less likely  %\nMuch less likely  %\nNo difference  %",
+      "category": "persuasion",
+      "source": "OHIO POLL (3)",
+      "marker": "Q8:"
+    },
+    {
+      "id": "OHIO POLL (3)_Q9",
+      "text": "Unlike Ohio, private sector workers in Indiana, Kentucky, and West Virginia are NOT required to pay union dues if they oppose the union.  Does this make you more or less likely to support giving Ohio workers the choice NOT to pay union dues if they oppose the union? Much more likely  %",
+      "full_text": "Unlike Ohio, private sector workers in Indiana, Kentucky, and West Virginia are NOT required to pay union dues if they oppose the union.  Does this make you more or less likely to support giving Ohio workers the choice NOT to pay union dues if they oppose the union?\n\nMuch more likely  %\nSomewhat more likely  %\nSomewhat less likely  %\nMuch less likely  %\nNo difference  %",
+      "category": "persuasion",
+      "source": "OHIO POLL (3)",
+      "marker": "Q9:"
+    },
+    {
+      "id": "OHIO POLL (3)_Q10",
+      "text": "Some people argue that workers who oppose the union SHOULD be required to pay dues because they may benefit from union representation.  Does this make you more or less likely to support giving Ohio workers the choice NOT to pay union dues if they oppose the union? Much more likely  %",
+      "full_text": "Some people argue that workers who oppose the union SHOULD be required to pay dues because they may benefit from union representation.  Does this make you more or less likely to support giving Ohio workers the choice NOT to pay union dues if they oppose the union?\n\nMuch more likely  %\nSomewhat more likely  %\nSomewhat less likely  %\nMuch less likely  %\nNo difference  %",
+      "category": "persuasion",
+      "source": "OHIO POLL (3)",
+      "marker": "Q10."
+    },
+    {
+      "id": "OHIO POLL (3)_Q11",
+      "text": "Unlike Ohio, 26 states give private sector workers the choice NOT to pay union dues if they oppose the union.  As a group, these 26 states have grown employment faster than Ohio.  Does this make you more or less likely to support giving Ohio workers the choice NOT to pay union dues if they oppose the union? Much more likely  %",
+      "full_text": "Unlike Ohio, 26 states give private sector workers the choice NOT to pay union dues if they oppose the union.  As a group, these 26 states have grown employment faster than Ohio.  Does this make you more or less likely to support giving Ohio workers the choice NOT to pay union dues if they oppose the union?\n\nMuch more likely  %\nSomewhat more likely  %\nSomewhat less likely  %\nMuch less likely  %\nNo difference  %",
+      "category": "persuasion",
+      "source": "OHIO POLL (3)",
+      "marker": "Q11:"
+    },
+    {
+      "id": "OHIO POLL (3)_Q12",
+      "text": "Thinking about your local community, would you support or oppose a law giving private sector workers who work in your community the choice NOT to pay union dues if they oppose the policies of the union?",
+      "full_text": "Thinking about your local community, would you support or oppose a law giving private sector workers who work in your community the choice NOT to pay union dues if they oppose the policies of the union?\n\nStrongly support:       %\nSomewhat support:    %\nSomewhat oppose:    %\nStrongly oppose:        %\nNot sure:                    %",
+      "category": "policy",
+      "source": "OHIO POLL (3)",
+      "marker": "Q12."
+    },
+    {
+      "id": "OHIO POLL (3)_Q13",
+      "text": "Have you, or has anyone in your immediate family, been represented by a union? Yes, I have been represented by a union: % No, I have not been represented by a union: % Someone in my immediate family has been represented by a union: % Not sure: % DEMOS: PARTY IDEOLOGY GENDER AGE RACE",
+      "full_text": "Have you, or has anyone in your immediate family, been represented by a union? \n \nYes, I have been represented by a union: %\nNo, I have not been represented by a union: %\nSomeone in my immediate family has been represented by a union: % \nNot sure: %\n\nDEMOS:\nPARTY\nIDEOLOGY\nGENDER\nAGE\nRACE",
+      "category": "demographics",
+      "source": "OHIO POLL (3)",
+      "marker": "Q13:"
+    },
+    {
+      "id": "ALHD38 SPECIAL GOP (2)_SCREEN",
+      "text": "Do you plan to vote in the October 21st\u00a0Special Republican Primary Election for Alabama State House?",
+      "full_text": "Do you plan to vote in the October 21st\u00a0Special Republican Primary Election for Alabama State House?\n\u00a0\nYes\nNo [END CALL]",
+      "category": "screener",
+      "source": "ALHD38 SPECIAL GOP (2)",
+      "marker": "SCREEN:"
+    },
+    {
+      "id": "ALHD38 SPECIAL GOP (2)_Q1",
+      "text": "What is your opinion of Garrett Dixon?",
+      "full_text": "What is your opinion of Garrett Dixon?\n\u00a0\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "ALHD38 SPECIAL GOP (2)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "ALHD38 SPECIAL GOP (2)_Q2",
+      "text": "What is your opinion of Kristin Nelson?",
+      "full_text": "What is your opinion of Kristin Nelson?\n\u00a0\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "ALHD38 SPECIAL GOP (2)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "ALHD38 SPECIAL GOP (2)_Q3",
+      "text": "What is your opinion of Micah Messer?",
+      "full_text": "What is your opinion of Micah Messer?\n\u00a0\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "ALHD38 SPECIAL GOP (2)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "ALHD38 SPECIAL GOP (2)_Q4",
+      "text": "Candidates in the upcoming October 21st\u00a0Special Republican Primary Election for Alabama State House of Representatives are listed below. Please indicate for whom you would vote if the election were held today. Garrett Dixon Kristin Nelson Micah Messer",
+      "full_text": "Candidates in the upcoming October 21st\u00a0Special Republican Primary Election for Alabama State House of Representatives are listed below. Please indicate for whom you would vote if the election were held today.\n\u00a0\nGarrett Dixon\u00a0\nKristin Nelson\u00a0\nMicah Messer\nUndecided\n\nDEMOS:\nTYPE OF GOP\nIDEOLOGY\nGENDER\nAGE",
+      "category": "top_of_ballot",
+      "source": "ALHD38 SPECIAL GOP (2)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_SCREEN",
+      "text": "Do you plan to vote in the March 2026 Republican Primary Election?",
+      "full_text": "Do you plan to vote in the March 2026 Republican Primary Election?\n\nYes\nNo [END SURVEY]",
+      "category": "screener",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "SCREEN:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q1",
+      "text": "What is your opinion of President Donald Trump?",
+      "full_text": "What is your opinion of President Donald Trump?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q2",
+      "text": "What is your opinion of Senator Ted Cruz?",
+      "full_text": "What is your opinion of Senator Ted Cruz?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q3",
+      "text": "What is your opinion of Senator John Cornyn?",
+      "full_text": "What is your opinion of Senator John Cornyn?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q4",
+      "text": "What is your opinion of Governor Greg Abbott?",
+      "full_text": "What is your opinion of Governor Greg Abbott?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q5",
+      "text": "What is your opinion of Attorney General Ken Paxton?",
+      "full_text": "What is your opinion of Attorney General Ken Paxton?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q5:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q6",
+      "text": "What is your opinion of Midland County Judge Terry Johnson?",
+      "full_text": "What is your opinion of Midland County Judge Terry Johnson?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q7",
+      "text": "If the March 2026 Republican Primary Election for Midland County Judge were held today, for whom would you vote? Terry Johnson Jay Marquez Karen Hood",
+      "full_text": "If the March 2026 Republican Primary Election for Midland County Judge were held today, for whom would you vote?\n\nTerry Johnson\nJay Marquez\nKaren Hood\nUndecided",
+      "category": "top_of_ballot",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q7:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q8",
+      "text": "Karen Hood is the experienced, conservative leader Midland County needs. During her time as Midland County Tax Assessor, Karen led major reforms at the County level, saving taxpayer money and better serving the residents of Midland County. Does knowing this make you more likely or less likely to vote for Karen Hood?",
+      "full_text": "Karen Hood is the experienced, conservative leader Midland County needs. During her time as Midland County Tax Assessor, Karen led major reforms at the County level, saving taxpayer money and better serving the residents of Midland County. Does knowing this make you more likely or less likely to vote for Karen Hood?\n \nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q8:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q9",
+      "text": "Karen Hood is a lifelong conservative who is dedicated to fighting for our values. She has served four terms as President of the Midland County Republican Women. Does knowing this make you more likely or less likely to vote for Karen Hood?",
+      "full_text": "Karen Hood is a lifelong conservative who is dedicated to fighting for our values. She has served four terms as President of the Midland County Republican Women. Does knowing this make you more likely or less likely to vote for Karen Hood?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q9:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q10",
+      "text": "As a member of the County Election Commission, Karen Hood fought for election integrity after discrepancies in the local 2019 election results were found. Karen is dedicated to accountability and transparency and will bring these values to the County Judge\u2019s office. Does knowing this make you more likely or less likely to vote for Karen Hood?",
+      "full_text": "As a member of the County Election Commission, Karen Hood fought for election integrity after discrepancies in the local 2019 election results were found. Karen is dedicated to accountability and transparency and will bring these values to the County Judge\u2019s office. Does knowing this make you more likely or less likely to vote for Karen Hood?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q10:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q11",
+      "text": "Jay Marquez was sued for failing to pay his property taxes. If Jay Marquez can\u2019t pay his own property taxes, he shouldn\u2019t be in charge of setting the County tax rate. Does knowing this make you more likely or less likely to vote for Jay Marquez?",
+      "full_text": "Jay Marquez was sued for failing to pay his property taxes. If Jay Marquez can\u2019t pay his own property taxes, he shouldn\u2019t be in charge of setting the County tax rate. Does knowing this make you more likely or less likely to vote for Jay Marquez?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q11:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q12",
+      "text": "Due to repeatedly failing to pay his utility bills, the City of Midland took legal action against Jay Marquez five different times. If Jay Marquez can\u2019t pay his own bills, he shouldn\u2019t run Midland County. Does knowing this make you more likely or less likely to vote for Jay Marquez?",
+      "full_text": "Due to repeatedly failing to pay his utility bills, the City of Midland took legal action against Jay Marquez five different times. If Jay Marquez can\u2019t pay his own bills, he shouldn\u2019t run Midland County. Does knowing this make you more likely or less likely to vote for Jay Marquez?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q12:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q13",
+      "text": "As County Judge, Terry Johnson is mandated by law to file the County budget timely. The District Attorney sued the County Judge\u2019s Office under Terry Johnson for his failure to file a budget for the county in a timely manner and a lack of transparency. Does knowing this make you more likely or less likely to vote for Terry Johnson?",
+      "full_text": "As County Judge, Terry Johnson is mandated by law to file the County budget timely. The District Attorney sued the County Judge\u2019s Office under Terry Johnson for his failure to file a budget for the county in a timely manner and a lack of transparency. Does knowing this make you more likely or less likely to vote for Terry Johnson?  \n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q13:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q14",
+      "text": "Terry Johnson voted to raise taxes to build a golf course. Midland County needs a leader who will fight to lower taxes, not raise them for a personal pet project. Does knowing this make you more likely or less likely to vote for Terry Johnson?",
+      "full_text": "Terry Johnson voted to raise taxes to build a golf course. Midland County needs a leader who will fight to lower taxes, not raise them for a personal pet project. Does knowing this make you more likely or less likely to vote for Terry Johnson?\n\nMore likely\nLess likely\nNo difference\n\nNow, sometimes in a survey like this, people change their minds. I will read you the original ballot question once more.",
+      "category": "persuasion",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q14:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q15",
+      "text": "If the March 2026 Republican Primary Election for Midland County Judge were held today, for whom would you vote? Terry Johnson Jay Marquez Karen Hood",
+      "full_text": "If the March 2026 Republican Primary Election for Midland County Judge were held today, for whom would you vote?\n\nTerry Johnson\nJay Marquez\nKaren Hood\nUndecided",
+      "category": "top_of_ballot",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q15:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_Q16",
+      "text": "If the Republican Primary Election for Midland County Judge were held today, who would be your second choice? Terry Johnson Jay Marquez Karen Hood",
+      "full_text": "If the Republican Primary Election for Midland County Judge were held today, who would be your second choice?\n\nTerry Johnson\nJay Marquez\nKaren Hood\nUndecided",
+      "category": "other",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "Q16:"
+    },
+    {
+      "id": "MIDLAND DRAFT FINAL (6)_DEMOGRAPHICS",
+      "text": "TYPE OF GOP GENDER IDEOLOGY AGE RACE (White, Hispanic, Other)",
+      "full_text": "TYPE OF GOP\nGENDER\nIDEOLOGY\nAGE\nRACE (White, Hispanic, Other)",
+      "category": "demographics",
+      "source": "MIDLAND DRAFT FINAL (6)",
+      "marker": "DEMOGRAPHICS:"
+    },
+    {
+      "id": "TN07 091525 (4)_SCREEN",
+      "text": "Do you plan to vote in the upcoming October 7th Republican Primary Election for United States Congress?",
+      "full_text": "Do you plan to vote in the upcoming October 7th Republican Primary Election for United States Congress?\n\nYes\nNo [END CALL]",
+      "category": "screener",
+      "source": "TN07 091525 (4)",
+      "marker": "SCREEN:"
+    },
+    {
+      "id": "TN07 091525 (4)_Q1",
+      "text": "Candidates in the upcoming October 7th Republican Primary Election for United States Congress are listed below. If the election were held today, for whom would you vote? Jody Barrett Gino Bulso Matt Van Epps Mason Foley Stuart Cooper Joe Leurs Jason Knight Stewart Parks Lee Reeves Jon Thorp",
+      "full_text": "Candidates in the upcoming October 7th Republican Primary Election for United States Congress are listed below. If the election were held today, for whom would you vote?\n\nJody Barrett\nGino Bulso\nMatt Van Epps\nMason Foley\nStuart Cooper\nJoe Leurs\nJason Knight\nStewart Parks\nLee Reeves\nJon Thorp\nUndecided",
+      "category": "top_of_ballot",
+      "source": "TN07 091525 (4)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "TN07 091525 (4)_Q2",
+      "text": "If you HAD to make a 2nd choice, who would be your next pick after your preferred candidate? Jody Barrett Gino Bulso Matt Van Epps Mason Foley Stuart Cooper Joe Leurs Jason Knight Stewart Parks Lee Reeves Jon Thorp",
+      "full_text": "If you HAD to make a 2nd choice, who would be your next pick after your preferred candidate?\n\nJody Barrett\nGino Bulso\nMatt Van Epps\nMason Foley\nStuart Cooper\nJoe Leurs\nJason Knight\nStewart Parks\nLee Reeves\nJon Thorp\nUndecided\n\nDEMOS:\nGENDER\nIDEOLOGY\nAGE\nTYPE OF GOP",
+      "category": "other",
+      "source": "TN07 091525 (4)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "Alford for Congress Survey Instrument (1)_Screen",
+      "text": "Do you plan to vote in the 2026 General Election for U.S. Congress?\u2028\u2028Yes\u2028No [END]\u2028\u2028Q1: What is your opinion of Donald Trump?\u2028\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q2: What is your opinion of Mark Alford?\u2028\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q3: What is your opinion of Quinton Lucas?\u2028\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q4: What is your opinion of Jason Kander?\u2028\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q5: If the General Election for U.S. Congress were held today, would you vote for the Republican candidate or the Democratic candidate?\u2028\u2028Republican\u2028Democrat\u2028Undecided\u2028\u2028Q6: Possible candidates in the General Election for U.S. Congress are the Republican Mark Alford and the Democrat Quinton Lucas. If the election were held today, for whom would you vote?\u2028\u2028Mark Alford\u2028Quinton Lucas\u2028Undecided\u2028\u2028Q7: Possible candidates in the General Election for U.S. Congress are the Republican Mark Alford and the Democrat Jason Kander. If the election were held today, for whom would you vote?\u2028\u2028Mark Alford\u2028Jason Kander\u2028Undecided\u2028\u2028Q8: Do you support or oppose Missouri Republicans plan to create new congressional district boundaries in Missouri that will result in one more Republican member of Congress?\u2028\u2028Support\u2028Oppose\u2028Not sure\u2028\u2028Q9: Which party do you trust more on the issue of crime?\u2028\u2028Republicans\u2028Democrats\u2028Not sure\u2028\u2028Q10: Which party do you trust more on the issue of immigration?\u2028\u2028Republicans\u2028Democrats\u2028Not sure\u2028\u2028Q11: Which party do you trust more on the issue of the economy?\u2028\u2028Republicans\u2028Democrats\u2028Not sure\u2028\u2028Q12: Do you think crime in the city of Kansas City is higher than other cities, lower than other cities or the same as other cities in our area?\u2028\u2028Higher\u2028Lower\u2028Same\u2028Not sure\u2028\u2028Q13: Which of the following do you believe was/is the best Republican president? Abraham Lincoln Ronald Reagan Donald Trump",
+      "full_text": "Do you plan to vote in the 2026 General Election for U.S. Congress?\u2028\u2028Yes\u2028No [END]\u2028\u2028Q1: What is your opinion of Donald Trump?\u2028\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q2: What is your opinion of Mark Alford?\u2028\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q3: What is your opinion of Quinton Lucas?\u2028\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q4: What is your opinion of Jason Kander?\u2028\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q5: If the General Election for U.S. Congress were held today, would you vote for the Republican candidate or",
+      "category": "screener",
+      "source": "Alford for Congress Survey Instrument (1)",
+      "marker": "Screen:"
+    },
+    {
+      "id": "Alford for Congress Survey Instrument (1)_Q14",
+      "text": "Do you support or oppose President Trump sending National Guard troops to the City of Kansas City to help with the crime issue?\u2028\u2028Support\u2028Oppose\u2028Not sure\u2028\u2028DEMOS: Geography, Party ID, Gender, Ideology, Age, Race",
+      "full_text": "Do you support or oppose President Trump sending National Guard troops to the City of Kansas City to help with the crime issue?\u2028\u2028Support\u2028Oppose\u2028Not sure\u2028\u2028DEMOS: Geography, Party ID, Gender, Ideology, Age, Race",
+      "category": "policy",
+      "source": "Alford for Congress Survey Instrument (1)",
+      "marker": "Q14:"
+    },
+    {
+      "id": "AR_SD_21_Draft (1)_SCREEN",
+      "text": "Do you plan to vote in the 2026 Republican Primary Election?  Yes No [END CALL]  Q1: What is your opinion of President Donald Trump?  Favorable Unfavorable No opinion  Q2: What is your opinion of Governor Sarah Huckabee Sanders?  Favorable Unfavorable No opinion  Q3: What is your opinion of State Senator Blake Johnson?  Favorable Unfavorable No opinion  Q4: What is your opinion of State Representative Jeremy Wooldridge?  Favorable Unfavorable No opinion  Q5: If the Republican primary for state senate were held today, would you vote for Senator Blake Johnson or Representative Jeremy Wooldridge?  Senator Blake Johnson Representative Jeremy Wooldridge Undecided  Q6: Does it make you more likely or less likely to vote for Blake Johnson knowing he led the fight to help make Arkansas the first state in the nation to kick China off of our farmland and out of our state? 816-407-1222 \u00b7 www.RemingtonResearchGroup.com Much more likely Somewhat more likely Somewhat less likely Much less likely No difference  Q7: Does it make you more likely or less likely to vote for Blake Johnson knowing he voted to give Arkansas public school teachers record pay raises?  Much more likely Somewhat more likely Somewhat less likely Much less likely No difference  Q8: Does it make you more likely or less likely to vote for Blake Johnson knowing he voted to ban indoctrination in our kids\u2019 classrooms?  Much more likely Somewhat more likely Somewhat less likely Much less likely No difference  Q9: Does it make you more likely or less likely to vote for Blake Johnson knowing he voted to give Arkansas state troopers record pay raises?  Much more likely Somewhat more likely Somewhat less likely Much less likely No difference  Q10: Does it make you more likely or less likely to vote for Blake Johnson knowing he voted to cut the Arkansas income tax three times by a total of twenty percent in the last two years?  Much more likely Somewhat more likely Somewhat less likely Much less likely 816-407-1222 \u00b7 www.RemingtonResearchGroup.com No difference  Q11: What is your opinion of State Senator Blake Johnson?  Favorable Unfavorable No opinion  Q12: If the Republican primary for state senate were held today, would you vote for Senator Blake Johnson or Representative Jeremy Wooldridge?  Senator Blake Johnson Representative Jeremy Wooldridge Undecided  Q14: Which of the following issues do you believe should be the top priority of the Arkansas state legislature?   Jobs and the economy Stopping illegal immigration Lowering property taxes Improving education Protecting the 2nd Amendment Lowering crime Protecting women and girls\u2019 sports Infrastructure like roads and bridges  Water Something else Not sure  DEMOGRAPHICS: TYPE OF GOP GENDER IDEOLOGY AGE",
+      "full_text": "Do you plan to vote in the 2026 Republican Primary Election?  Yes No [END CALL]  Q1: What is your opinion of President Donald Trump?  Favorable Unfavorable No opinion  Q2: What is your opinion of Governor Sarah Huckabee Sanders?  Favorable Unfavorable No opinion  Q3: What is your opinion of State Senator Blake Johnson?  Favorable Unfavorable No opinion  Q4: What is your opinion of State Representative Jeremy Wooldridge?  Favorable Unfavorable No opinion  Q5: If the Republican primary for state s",
+      "category": "screener",
+      "source": "AR_SD_21_Draft (1)",
+      "marker": "SCREEN:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_SCREEN",
+      "text": "Do you plan to vote in the 2026 Republican Primary Election for United States Congress?",
+      "full_text": "Do you plan to vote in the 2026 Republican Primary Election for United States Congress?\n\nYes\nNo [END CALL]",
+      "category": "screener",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "SCREEN:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q1",
+      "text": "What is your opinion of Donald Trump?",
+      "full_text": "What is your opinion of Donald Trump?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q2",
+      "text": "What is your opinion of Jody Barrett?",
+      "full_text": "What is your opinion of Jody Barrett?\n\u00a0\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q3",
+      "text": "What is your opinion of\u00a0Lee Reeves?",
+      "full_text": "What is your opinion of\u00a0Lee Reeves?\n\u00a0\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q4",
+      "text": "What is your opinion of Gino Bulso?",
+      "full_text": "What is your opinion of Gino Bulso?\n\u00a0\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q5",
+      "text": "What is your opinion of Matt Van Epps?",
+      "full_text": "What is your opinion of Matt Van Epps?\n\u00a0\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q5:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q6",
+      "text": "Candidates in the 2026 Republican Primary Election for United States Congress are listed below. If the election were held today, for whom would you vote? Jody Barrett Gino Bulso Matt Van Epps Mason Foley Stuart Cooper Joe Leurs Jason Knight Stewarts Parks Lee Reeves Jon Throp",
+      "full_text": "Candidates in the 2026 Republican Primary Election for United States Congress are listed below. If the election were held today, for whom would you vote?\n\nJody Barrett\nGino Bulso\nMatt Van Epps\nMason Foley\u00a0\nStuart Cooper\nJoe Leurs\nJason Knight\u00a0\nStewarts Parks\u00a0\nLee Reeves\u00a0\nJon Throp\nUndecided\n\nYou will now be read a handful of brief statements you may see, read or hear in the next year or so leading up to the 2026 Republican Primary Election for United States Congress. Please indicate, after heari",
+      "category": "top_of_ballot",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q7",
+      "text": "Jody Barrett is widely regarded as the least effective members of the Tennessee legislature, often standing with democrats to oppose Republican leadership and MAGA priorities.",
+      "full_text": "Jody Barrett is widely regarded as the least effective members of the Tennessee legislature, often standing with democrats to oppose Republican leadership and MAGA priorities.\n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q7:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q8",
+      "text": "Jody Barrett opposed school choice legislation that was supported by President Trump and would have given parents the ability to take their children out of failing public schools and place them in private schools.",
+      "full_text": "Jody Barrett opposed school choice legislation that was supported by President Trump and would have given parents the ability to take their children out of failing public schools and place them in private schools.\n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q8:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q9",
+      "text": "Gino Bulso endorsed Ron DeSantis against Donald Trump on the very same day Trump indicted in a political prosecution by democrat prosecutors in Georgia.",
+      "full_text": "Gino Bulso endorsed Ron DeSantis against Donald Trump on the very same day Trump indicted in a political prosecution by democrat prosecutors in Georgia. \n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q9:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q10",
+      "text": "Gino Bulso voted in favor of a school voucher program, which took needed money out of public schools in rural areas, and despite being a wealthy trial attorney, Gino has personally used the voucher program to send his own kids to private school.",
+      "full_text": "Gino Bulso voted in favor of a school voucher program, which took needed money out of public schools in rural areas, and despite being a wealthy trial attorney, Gino has personally used the voucher program to send his own kids to private school.\n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q10:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q11",
+      "text": "Matt Van Epps served as the strategic planner for the Unified COVID Command taskforce, which implemented lockdowns and mask mandates on Tennessee citizens.",
+      "full_text": "Matt Van Epps served as the strategic planner for the Unified COVID Command taskforce, which implemented lockdowns and mask mandates on Tennessee citizens.\n\nMore likely\nLess likely\nNo difference",
+      "category": "other",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q11:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q12",
+      "text": "Lee Reeves is the owner and operator of a housing development in Houston, Texas, that houses illegal immigrants at a discounted rate.",
+      "full_text": "Lee Reeves is the owner and operator of a housing development in Houston, Texas, that houses illegal immigrants at a discounted rate.\n\nMore likely\nLess likely\nNo difference\n\n\nNow, sometimes in a survey like this, people change their minds. I will read you the original ballot question again.",
+      "category": "other",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q12:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q13",
+      "text": "Possible candidates in the 2026 Republican Primary Election for United States Congress are listed below. If the election were held today, for whom would you vote? Jody Barrett Gino Bulso Matt Van Epps Mason Foley Stuart Cooper Joe Leurs Jason Knight Stewarts Parks Lee Reeves Jon Throp",
+      "full_text": "Possible candidates in the 2026 Republican Primary Election for United States Congress are listed below. If the election were held today, for whom would you vote?\n\nJody Barrett\nGino Bulso\nMatt Van Epps\nMason Foley\u00a0\nStuart Cooper\nJoe Leurs\nJason Knight\u00a0\nStewarts Parks\u00a0\nLee Reeves\u00a0\nJon Throp\nUndecided",
+      "category": "top_of_ballot",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q13:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q14",
+      "text": "How much have you seen, read, or heard recently about Jody Barrett? A lot Just some Nothing at all",
+      "full_text": "How much have you seen, read, or heard recently about Jody Barrett?\n\nA lot\nJust some\nNothing at all",
+      "category": "other",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q14:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q15",
+      "text": "Now, thinking about what you\u2019ve seen, read, or heard recently about Jody Barrett, did the information make you more likely or less likely to support him in the upcoming Republican Primary Election for United States Congress?",
+      "full_text": "Now, thinking about what you\u2019ve seen, read, or heard recently about Jody Barrett, did the information make you more likely or less likely to support him in the upcoming Republican Primary Election for United States Congress?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q15:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q16",
+      "text": "How much have you seen, read, or heard recently about Lee Reeves? A lot Just some Nothing at all",
+      "full_text": "How much have you seen, read, or heard recently about Lee Reeves?\n\nA lot\nJust some\nNothing at all",
+      "category": "other",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q16:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q17",
+      "text": "Now, thinking about what you\u2019ve seen, read, or heard recently about Lee Reeves, did the information make you more likely or less likely to support him in the upcoming Republican Primary Election for United States Congress?",
+      "full_text": "Now, thinking about what you\u2019ve seen, read, or heard recently about Lee Reeves, did the information make you more likely or less likely to support him in the upcoming Republican Primary Election for United States Congress?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q17:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q18",
+      "text": "How much have you seen, read, or heard recently about Gino Bulso? A lot Just some Nothing at all",
+      "full_text": "How much have you seen, read, or heard recently about Gino Bulso?\n\nA lot\nJust some\nNothing at all",
+      "category": "other",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q18:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q19",
+      "text": "Now, thinking about what you\u2019ve seen, read, or heard recently about Gino Bulso, did the information make you more likely or less likely to support him in the upcoming Republican Primary Election for United States Congress?",
+      "full_text": "Now, thinking about what you\u2019ve seen, read, or heard recently about Gino Bulso, did the information make you more likely or less likely to support him in the upcoming Republican Primary Election for United States Congress?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q19:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q20",
+      "text": "How much have you seen, read, or heard recently about Matt Van Epps? A lot Just some Nothing at all",
+      "full_text": "How much have you seen, read, or heard recently about Matt Van Epps?\n\nA lot\nJust some\nNothing at all",
+      "category": "other",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q20:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_Q21",
+      "text": "Now, thinking about what you\u2019ve seen, read, or heard recently about Matt Van Epps, did the information make you more likely or less likely to support him in the upcoming Republican Primary Election for United States Congress?",
+      "full_text": "Now, thinking about what you\u2019ve seen, read, or heard recently about Matt Van Epps, did the information make you more likely or less likely to support him in the upcoming Republican Primary Election for United States Congress?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "Q21:"
+    },
+    {
+      "id": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)_DEMOGRAPHICS",
+      "text": "TYPE OF GOP GENDER AGE IDEOLOGY",
+      "full_text": "TYPE OF GOP \nGENDER\nAGE\nIDEOLOGY",
+      "category": "demographics",
+      "source": "TN07 2026 GOP PRIMARY DRAFT v3 9.12.25 (3)",
+      "marker": "DEMOGRAPHICS:"
+    },
+    {
+      "id": "PATRIOT MOBILE DRAFT final (3)_Q1",
+      "text": "Overall, how would you rate your experience with Patriot Mobile? Excellent Good Fair Poor",
+      "full_text": "Overall, how would you rate your experience with Patriot Mobile?\n\nExcellent\nGood\nFair\nPoor\nNot sure",
+      "category": "other",
+      "source": "PATRIOT MOBILE DRAFT final (3)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "PATRIOT MOBILE DRAFT final (3)_Q2",
+      "text": "What was the main reason you considered switching to another cell phone carrier? Please select the most important reason. Price/cost of service Device/phone offers (e.g., free or discounted phone) Network coverage or reliability Customer service experience Features/services offered (e.g., international calling, data plans) Other (please specify)",
+      "full_text": "What was the main reason you considered switching to another cell phone carrier? Please select the most important reason.\n\nPrice/cost of service\nDevice/phone offers (e.g., free or discounted phone)\nNetwork coverage or reliability\nCustomer service experience\nFeatures/services offered (e.g., international calling, data plans)\nOther (please specify)",
+      "category": "other",
+      "source": "PATRIOT MOBILE DRAFT final (3)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "PATRIOT MOBILE DRAFT final (3)_Q3",
+      "text": "If price or device promotions influenced your decision to leave, would a competitive promotion or similar offer from Patriot Mobile have encouraged you to stay? Definitely yes Probably yes Probably not Definitely not Not applicable (price or device was not my reason for leaving)",
+      "full_text": "If price or device promotions influenced your decision to leave, would a competitive promotion or similar offer from Patriot Mobile have encouraged you to stay?\n\nDefinitely yes\nProbably yes\nProbably not\nDefinitely not\nNot applicable (price or device was not my reason for leaving)\nNot sure",
+      "category": "other",
+      "source": "PATRIOT MOBILE DRAFT final (3)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "PATRIOT MOBILE DRAFT final (3)_Q4",
+      "text": "Since switching, how would you rate your experience with your new carrier compared to Patriot Mobile? Better than Patriot Mobile About the same as Patriot Mobile Worse than Patriot Mobile",
+      "full_text": "Since switching, how would you rate your experience with your new carrier compared to Patriot Mobile?\n\nBetter than Patriot Mobile\nAbout the same as Patriot Mobile\nWorse than Patriot Mobile\nNot sure",
+      "category": "other",
+      "source": "PATRIOT MOBILE DRAFT final (3)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "PATRIOT MOBILE DRAFT final (3)_Q5",
+      "text": "What was the single most important reason you originally chose Patriot Mobile? Please select the most important reason. Price/cost of service Belief in Patriot Mobile\u2019s mission/values Recommendation from friends or family Customer service reputation Network coverage/reliability Device/phone promotions Other (please specify)",
+      "full_text": "What was the single most important reason you originally chose Patriot Mobile? Please select the most important reason.\n\nPrice/cost of service\nBelief in Patriot Mobile\u2019s mission/values\nRecommendation from friends or family\nCustomer service reputation\nNetwork coverage/reliability\nDevice/phone promotions\nOther (please specify)\nNot sure",
+      "category": "other",
+      "source": "PATRIOT MOBILE DRAFT final (3)",
+      "marker": "Q5:"
+    },
+    {
+      "id": "PATRIOT MOBILE DRAFT final (3)_Q6",
+      "text": "How likely are you to consider joining Patriot Mobile again in the future?",
+      "full_text": "How likely are you to consider joining Patriot Mobile again in the future?\n\nVery likely\nSomewhat likely\nNot too likely\nNot at all likely\nNot sure\u2028\u2028I will now read you a handful of statements you may hear in the coming months. Please indicate if you would be more likely or less likely to consider joining Patriot Mobile again in the future.\u2028\u2028Q7: Patriot Mobile is offering former customers 20% off their mobile plans, one free month of service and no cost activation if they re-join Patriot Mobile.\u2028\u2028",
+      "category": "other",
+      "source": "PATRIOT MOBILE DRAFT final (3)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "TEDDYS LAW POLL FINAL (8)_Q1",
+      "text": "Do you currently own a dog or have you owned a dog in the past? Yes, I currently own a dog Yes, I have previously owned a dog No, I have never owned a dog",
+      "full_text": "Do you currently own a dog or have you owned a dog in the past?\n\nYes, I currently own a dog\nYes, I have previously owned a dog\nNo, I have never owned a dog",
+      "category": "other",
+      "source": "TEDDYS LAW POLL FINAL (8)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "TEDDYS LAW POLL FINAL (8)_Q2",
+      "text": "Have you ever become aware of incidences where dogs have been shot during police encounters in Missouri? Yes, have been aware of this for a long time Yes, have only just become aware of this recently No, have not really heard anything about it Not Sure",
+      "full_text": "Have you ever become aware of incidences where dogs have been shot during police encounters in Missouri?\n\nYes, have been aware of this for a\nlong time\nYes, have only just become aware\nof this recently\nNo, have not really heard anything\nabout it\nNot Sure",
+      "category": "other",
+      "source": "TEDDYS LAW POLL FINAL (8)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "TEDDYS LAW POLL FINAL (8)_Q3",
+      "text": "How much of a problem do you believe police shootings of dogs are in Missouri? A very serious problem A somewhat serious problem Not a very serious problem Not a problem at all",
+      "full_text": "How much of a problem do you believe police shootings of dogs are in Missouri?\n\nA very serious problem\nA somewhat serious problem\nNot a very serious problem\nNot a problem at all\nNot sure",
+      "category": "other",
+      "source": "TEDDYS LAW POLL FINAL (8)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "TEDDYS LAW POLL FINAL (8)_Q4",
+      "text": "The Missouri state legislature is considering a bill that would require all law enforcement officers to complete training on safe and humane methods for handling encounters with dogs. The goal of the training is to reduce the number of dogs shot by police, provide officers with proven de-escalation tools to keep themselves and the public safe, and avoid costly taxpayer funded lawsuits against police departments. Would you support or oppose this bill? Support Oppose",
+      "full_text": "The Missouri state legislature is considering a bill that would require all law enforcement officers to complete training on safe and humane methods for handling encounters with dogs. The goal of the training is to reduce the number of dogs shot by police, provide officers with proven de-escalation tools to keep themselves and the public safe, and avoid costly taxpayer funded lawsuits against police departments. Would you support or oppose this bill?\n\nSupport\nOppose\nNot sure",
+      "category": "policy",
+      "source": "TEDDYS LAW POLL FINAL (8)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "TEDDYS LAW POLL FINAL (8)_Q5",
+      "text": "Following an incident in Sturgeon, MO in 2023, where a small blind and deaf family dog named Teddy was fatally shot by a police officer, the Legislature is considering a bill aimed at preventing future shootings. The bill, known as \u201cTeddy\u2019s Law,\u201d would require all law enforcement officers to complete training on how to safely handle encounters with dogs using proven, non-lethal de-escalation methods. Would you support or oppose this legislation? Support Oppose",
+      "full_text": "Following an incident in Sturgeon, MO in 2023, where a small blind and deaf family dog named Teddy was fatally shot by a police officer, the Legislature is considering a bill aimed at preventing future shootings. The bill, known as \u201cTeddy\u2019s Law,\u201d would require all law enforcement officers to complete training on how to safely handle encounters with dogs using proven, non-lethal de-escalation methods. Would you support or oppose this legislation?\n\nSupport\nOppose\nNot sure",
+      "category": "policy",
+      "source": "TEDDYS LAW POLL FINAL (8)",
+      "marker": "Q5:"
+    },
+    {
+      "id": "AR_SD_28_Draft (1)_SCREEN",
+      "text": "Do you plan to vote in the 2026 Republican Primary Election?  Yes No [END CALL]  Q1: What is your opinion of President Donald Trump?  Favorable Unfavorable No opinion  Q2: What is your opinion of Governor Sarah Huckabee Sanders?  Favorable Unfavorable No opinion  Q3: What is your opinion of State Senator Bryan King?  Favorable Unfavorable No opinion  Q4: What is your opinion of Bob Ballinger Jr?  Favorable Unfavorable No opinion  Q5: If the Republican primary for state senate were held today, would you vote for Senator Bryan King or Bob Ballinger Jr?  Senator Bryan King Bob Ballinger Jr Undecided  Q6: Does it make you more likely or less likely to vote for Bryan King knowing he voted against giving Arkansas state troopers a pay raise?  Much more likely 816-407-1222 \u00b7 www.RemingtonResearchGroup.com",
+      "full_text": "Do you plan to vote in the 2026 Republican Primary Election?  Yes No [END CALL]  Q1: What is your opinion of President Donald Trump?  Favorable Unfavorable No opinion  Q2: What is your opinion of Governor Sarah Huckabee Sanders?  Favorable Unfavorable No opinion  Q3: What is your opinion of State Senator Bryan King?  Favorable Unfavorable No opinion  Q4: What is your opinion of Bob Ballinger Jr?  Favorable Unfavorable No opinion  Q5: If the Republican primary for state senate were held today, wo",
+      "category": "screener",
+      "source": "AR_SD_28_Draft (1)",
+      "marker": "SCREEN:"
+    },
+    {
+      "id": "AR_SD_28_Draft (1)_Q11",
+      "text": "What is your opinion of State Senator Bryan King?  Favorable Unfavorable No opinion  Q12: If the Republican primary for state senate were held today, would you vote for Senator Bryan King or Bob Ballinger Jr?  Senator Bryan King Bob Ballinger Jr Undecided  Q13: Do you support or oppose the creation of a new prison in Franklin County as part of a plan to expand available prison beds in Arkansas and relieve inmate backups in local county jails?   Support Oppose Not sure  Q14: Which of the following issues do you believe should be the top priority of the Arkansas state legislature?   Jobs and the economy Stopping illegal immigration Lowering property taxes Improving education Protecting the 2nd Amendment Lowering crime Protecting women and girls\u2019 sports Infrastructure like roads and bridges  Water Something else Not sure  DEMOGRAPHICS: TYPE OF GOP GENDER IDEOLOGY AGE",
+      "full_text": "What is your opinion of State Senator Bryan King?  Favorable Unfavorable No opinion  Q12: If the Republican primary for state senate were held today, would you vote for Senator Bryan King or Bob Ballinger Jr?  Senator Bryan King Bob Ballinger Jr Undecided  Q13: Do you support or oppose the creation of a new prison in Franklin County as part of a plan to expand available prison beds in Arkansas and relieve inmate backups in local county jails?   Support Oppose Not sure  Q14: Which of the followin",
+      "category": "favorability",
+      "source": "AR_SD_28_Draft (1)",
+      "marker": "Q11:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_SCREEN",
+      "text": "Do you plan to vote in the March 2026 Republican Primary Election?",
+      "full_text": "Do you plan to vote in the March 2026 Republican Primary Election?\n\nYes\nNo [END CALL]",
+      "category": "screener",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "SCREEN:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q1",
+      "text": "What is your opinion of Donald Trump?",
+      "full_text": "What is your opinion of Donald Trump?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q2",
+      "text": "What is your opinion of Ted Cruz?",
+      "full_text": "What is your opinion of Ted Cruz?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q2:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q3",
+      "text": "What is your opinion of Adam Hinojosa?",
+      "full_text": "What is your opinion of Adam Hinojosa?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q3:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q4",
+      "text": "What is your opinion of Eric Flores?",
+      "full_text": "What is your opinion of Eric Flores?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q4:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q5",
+      "text": "What is your opinion of Mayra Flores?",
+      "full_text": "What is your opinion of Mayra Flores?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q5:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q6",
+      "text": "What is your opinion of Fred Hinojosa?",
+      "full_text": "What is your opinion of Fred Hinojosa?\n\nFavorable\nUnfavorable\nNo opinion",
+      "category": "favorability",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q7",
+      "text": "Candidates in the March 2026 Republican Primary Election for United States Congress are listed below. If the election were held today, for whom would you vote? Eric Flores Mayra Flores Fred Hinojosa Keith Allen Luis Buentello Gregory Kunkle Scott Mandel Jay Nagy",
+      "full_text": "Candidates in the March 2026 Republican Primary Election for United States Congress are listed below. If the election were held today, for whom would you vote?\n\nEric Flores\nMayra Flores\nFred Hinojosa\nKeith Allen\nLuis Buentello\nGregory Kunkle\nScott Mandel\nJay Nagy\nUndecided",
+      "category": "top_of_ballot",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q7:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q8",
+      "text": "Now, which candidate would be your 2nd choice? Eric Flores Mayra Flores Fred Hinojosa Keith Allen Luis Buentello Gregory Kunkle Scott Mandel Jay Nagy",
+      "full_text": "Now, which candidate would be your 2nd choice?\n\nEric Flores\nMayra Flores\nFred Hinojosa\nKeith Allen\nLuis Buentello\nGregory Kunkle\nScott Mandel\nJay Nagy\nUndecided",
+      "category": "top_of_ballot",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q8:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q9",
+      "text": "Candidates in the March 2026 Republican Primary Election for United States Senate are listed below. If the election were held today, for whom would you vote? John Cornyn John Adefope Anna Bender Virgil Bierschwale Sara Canady Wesley Hunt Gus Khan Ken Paxton",
+      "full_text": "Candidates in the March 2026 Republican Primary Election for United States Senate are listed below. If the election were held today, for whom would you vote?\n\nJohn Cornyn\nJohn Adefope\nAnna Bender\nVirgil Bierschwale\nSara Canady\nWesley Hunt\nGus Khan\nKen Paxton\nUndecided",
+      "category": "top_of_ballot",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q9:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q10",
+      "text": "Are you aware of President Trump\u2019s endorsement of Eric Flores? Yes, I was aware No, I was not aware Not sure/maybe The next handful of questions will consist of possible statements you may see, read or hear in the next couple months leading up to the March 2026 Republican Primary Election for United States Congress. Please indicate, after hearing each statement, whether you are more likely or less likely to support that candidate.",
+      "full_text": "Are you aware of President Trump\u2019s endorsement of Eric Flores?\n\nYes, I was aware\nNo, I was not aware\nNot sure/maybe\n\nThe next handful of questions will consist of possible statements you may see, read or hear in the next couple months leading up to the March 2026 Republican Primary Election for United States Congress. Please indicate, after hearing each statement, whether you are more likely or less likely to support that candidate.",
+      "category": "persuasion",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q10:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q11",
+      "text": "If you knew that Eric Flores was endorsed by President Donald Trump for Congress, would that make you more likely or less likely to support Eric Flores, or would it not make a difference?",
+      "full_text": "If you knew that Eric Flores was endorsed by President Donald Trump for Congress, would that make you more likely or less likely to support Eric Flores, or would it not make a difference?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q11:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q12",
+      "text": "Eric Flores previously worked as a federal prosecutor for the corrupt Biden administration when the Department of Justice went after conservatives across the country. Does knowing this make you more likely or less likely to vote for Eric Flores for Congress?",
+      "full_text": "Eric Flores previously worked as a federal prosecutor for the corrupt Biden administration when the Department of Justice went after conservatives across the country. Does knowing this make you more likely or less likely to vote for Eric Flores for Congress?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q12:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q13",
+      "text": "Mayra Flores is a conservative Republican and former member of Congress who is the only candidate in the race with a record supporting border security, lowering taxes, and standing up to the far left. Does knowing this make you more likely or less likely to support Mayra Flores for Congress, or does it not make a difference?",
+      "full_text": "Mayra Flores is a conservative Republican and former member of Congress who is the only candidate in the race with a record supporting border security, lowering taxes, and standing up to the far left. Does knowing this make you more likely or less likely to support Mayra Flores for Congress, or does it not make a difference?\n\nMore likely\nLess Likely \nNo difference",
+      "category": "persuasion",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q13:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q14",
+      "text": "Mayra Flores has a campaign slogan of \u201cFaith, Family and Freedom,\u201d but she recently got divorced. Does hearing this make you more likely or less likely to support her, or does it not make a difference?",
+      "full_text": "Mayra Flores has a campaign slogan of \u201cFaith, Family and Freedom,\u201d but she recently got divorced. Does hearing this make you more likely or less likely to support her, or does it not make a difference?\n\nMore likely \nLess likely \nNo difference",
+      "category": "persuasion",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q14:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q15",
+      "text": "Fred Hinojosa says his top priority is putting South Texas families first by focusing on local issues rather than national political fights. Does that make you more likely or less likely to support Fred Hinojosa for Congress?",
+      "full_text": "Fred Hinojosa says his top priority is putting South Texas families first by focusing on local issues rather than national political fights. Does that make you more likely or less likely to support Fred Hinojosa for Congress?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q15:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q16",
+      "text": "As a police academy graduate, Fred Hinojosa supports stronger border security and increased resources for local law enforcement to keep communities safe. Does this position make you more likely or less likely to vote for him?",
+      "full_text": "As a police academy graduate, Fred Hinojosa supports stronger border security and increased resources for local law enforcement to keep communities safe. Does this position make you more likely or less likely to vote for him?\n\nMore likely\nLess likely\nNo difference",
+      "category": "persuasion",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q16:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q17",
+      "text": "Fred Hinojosa says Washington policies have driven up the cost of living and hurt working families, and he supports pro-growth policies to create jobs and lower prices. Does that make you more likely or less likely to support him?",
+      "full_text": "Fred Hinojosa says Washington policies have driven up the cost of living and hurt working families, and he supports pro-growth policies to create jobs and lower prices. Does that make you more likely or less likely to support him?\n\nMore likely\nLess likely\nNo difference\n\n\n\n\n\n\n\n\n\n\n\n\nNow, sometimes in a survey like this, people change their minds. I will read you the original ballot question once more.",
+      "category": "persuasion",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q17:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q18",
+      "text": "Candidates in the March 2026 Republican Primary Election for United States Congress are listed below. If the election were held today, for whom would you vote? Fred Hinojosa Eric Flores Mayra Flores Keith Allen Luis Buentello Gregory Kunkle Scott Mandel Jay Nagy",
+      "full_text": "Candidates in the March 2026 Republican Primary Election for United States Congress are listed below. If the election were held today, for whom would you vote?\n\nFred Hinojosa \nEric Flores\nMayra Flores\nKeith Allen\nLuis Buentello\nGregory Kunkle\nScott Mandel\nJay Nagy\nUndecided",
+      "category": "top_of_ballot",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q18:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_Q19",
+      "text": "Now, which candidate would be your 2nd choice? Eric Flores Mayra Flores Fred Hinojosa Keith Allen Luis Buentello Gregory Kunkle Scott Mandel Jay Nagy",
+      "full_text": "Now, which candidate would be your 2nd choice?\n\nEric Flores\nMayra Flores\nFred Hinojosa\nKeith Allen\nLuis Buentello\nGregory Kunkle\nScott Mandel\nJay Nagy\nUndecided",
+      "category": "top_of_ballot",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "Q19:"
+    },
+    {
+      "id": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)_DEMOGRAPHICS",
+      "text": "TYPE OF GOP GENDER IDEOLOGY AGE",
+      "full_text": "TYPE OF GOP\nGENDER\nIDEOLOGY\nAGE",
+      "category": "demographics",
+      "source": "_TX34 2026 GOP PRIMARY ELECTION DRAFT_EDITEDV2 FINAL (5)",
+      "marker": "DEMOGRAPHICS:"
+    },
+    {
+      "id": "MO SD 6 GOP Primary Survey Instrument v1 (3)_SCREEN",
+      "text": "Do you plan to vote in the 2026 Republican Primary Election for state and federal offices?\u2028\u2028Yes No [END CALL]",
+      "full_text": "Do you plan to vote in the 2026 Republican Primary Election for state and federal offices?\u2028\u2028Yes\nNo [END CALL]",
+      "category": "screener",
+      "source": "MO SD 6 GOP Primary Survey Instrument v1 (3)",
+      "marker": "SCREEN:"
+    },
+    {
+      "id": "MO SD 6 GOP Primary Survey Instrument v1 (3)_Q1",
+      "text": "What is your opinion of Donald Trump?",
+      "full_text": "What is your opinion of Donald Trump?\n\nFavorable\nUnfavorable\nNo opinion\u2028\u2028Q2: What is your opinion of Mike Kehoe? \u2028\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q3: What is your opinion of Jake Vogel?\u2028\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q4: Possible candidates in the 2026 Republican Primary Election for State Senate are Jake Vogel, Rudy Veit, Derrick Spicer and Chuck Gatschenberger. If the election were held today, for whom would you vote?\u2028\u2028Jake Vogel\u2028Rudy Veit\u2028Derrick Spicer\u2028Chuck Gatschenberger\u2028Undecided\u2028\u2028",
+      "category": "favorability",
+      "source": "MO SD 6 GOP Primary Survey Instrument v1 (3)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "GA SD 18 Special Election Survey Instrument 121825 (7)_Q1",
+      "text": "What is your opinion of Donald Trump?",
+      "full_text": "What is your opinion of Donald Trump?\n\nFavorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q2: What is your opinion of Eric Wilson?\u2028\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q3: What is your opinion of Steven McNeel?\n\u2028Favorable\u2028Unfavorable\u2028No opinion\u2028\u2028Q4: What is your opinion of Lemario Brown?\u2028\u2028Favorable \u2028Unfavorable\u2028No opinion\u2028\u2028Q5: If the Special Election for State Senate were held today, would you vote for one of the Republican candidates or one of the Democratic candidates?\u2028\u2028Republican\u2028Democrat\u2028Undecided",
+      "category": "favorability",
+      "source": "GA SD 18 Special Election Survey Instrument 121825 (7)",
+      "marker": "Q1:"
+    },
+    {
+      "id": "GA SD 18 Special Election Survey Instrument 121825 (7)_Q6",
+      "text": "The candidates in the 2026 Special Election for State Senate are the Democrat Lemario Brown, Republican Eric Wilson, Republican Steven McNeel, Republican Nathan Warnock, Republican Lauren Daniel and Republican Howard Allison. If the election were held today, for whom would you vote?\u2028\u2028Lemario Brown\u2028Eric Wilson\u2028Steven McNeel\u2028Nathan Warnock\u2028Lauren Daniel\u2028Howard Allison\u2028Undecided\u2028\u2028I will now read you a series of statements you may hear in the campaign for State Senate. Please indicate if you would be more likely or less likely to support that candidate based on the information.",
+      "full_text": "The candidates in the 2026 Special Election for State Senate are the Democrat Lemario Brown, Republican Eric Wilson, Republican Steven McNeel, Republican Nathan Warnock, Republican Lauren Daniel and Republican Howard Allison. If the election were held today, for whom would you vote?\u2028\u2028Lemario Brown\u2028Eric Wilson\u2028Steven McNeel\u2028Nathan Warnock\u2028Lauren Daniel\u2028Howard Allison\u2028Undecided\u2028\u2028I will now read you a series of statements you may hear in the campaign for State Senate. Please indicate if you would b",
+      "category": "top_of_ballot",
+      "source": "GA SD 18 Special Election Survey Instrument 121825 (7)",
+      "marker": "Q6:"
+    },
+    {
+      "id": "GA SD 18 Special Election Survey Instrument 121825 (7)_Q7",
+      "text": "Steven McNeel is a personal injury trial lawyer who profits from frivolous lawsuits. After hearing this, are you more likely or less likely to vote for Steven McNeel?\u2028\u2028More likely\u2028Less likely\u2028No difference\u2028\u2028Q8: Steven McNeel is not a true Republican. In fact, Steven McNeel has voted in every recent Democratic Primary Election for President. After hearing this, are you more likely or less likely to vote for Steven McNeel?\u2028\u2028More likely\u2028Less likely\u2028No difference\u2028\u2028Q9: Steven McNeel did not vote for Donald Trump in the 2020 or 2024 Republican Primary for President. After hearing this, are you more likely or less likely to vote for Steven McNeel?\u2028\u2028More likely\u2028Less likely\u2028No difference\u2028\u2028Q10: Steven McNeel shows he is able to work across the aisle with both Republicans and Democrats. He has recently voted in Democratic primaries and is a proud bi-partisan moderate. After hearing this, are you more likely or less likely to vote for Steven McNeel?\u2028\u2028More likely\u2028Less likely\u2028No difference\u2028\u2028Q11: Eric Wilson serves the community as the mayor of Forsyth. He is a strong conservative who will continue pushing the conservative agenda in the State Senate. After hearing this, are you more likely or less likely to vote for Eric Wilson?\u2028\u2028More likely\u2028Less likely\u2028No difference Sometimes in a survey like this, people change their minds. I will read you the original ballot question again.\u2028\u2028Q12: The candidates in the 2026 Special Election for State Senate are the Democrat Lemario Brown, Republican Eric Wilson, Republican Steven McNeel, Republican Nathan Warnock, Republican Lauren Daniel and Republican Howard Allison. If the election were held today, for whom would you vote?\u2028\u2028Lemario Brown\u2028Eric Wilson\u2028Steven McNeel\u2028Nathan Warnock\u2028Lauren Daniel\u2028Howard Allison\u2028Undecided",
+      "full_text": "Steven McNeel is a personal injury trial lawyer who profits from frivolous lawsuits. After hearing this, are you more likely or less likely to vote for Steven McNeel?\u2028\u2028More likely\u2028Less likely\u2028No difference\u2028\u2028Q8: Steven McNeel is not a true Republican. In fact, Steven McNeel has voted in every recent Democratic Primary Election for President. After hearing this, are you more likely or less likely to vote for Steven McNeel?\u2028\u2028More likely\u2028Less likely\u2028No difference\u2028\u2028Q9: Steven McNeel did not vote for ",
+      "category": "top_of_ballot",
+      "source": "GA SD 18 Special Election Survey Instrument 121825 (7)",
+      "marker": "Q7:"
+    },
+    {
+      "id": "GA SD 18 Special Election Survey Instrument 121825 (7)_Q13",
+      "text": "PARTY\u2028Q14: GENDER\u2028Q15: IDEOLOGY\u2028Q16: AGE\u2028Q17: GEOGRAPHY [HARDCODED IN DATA]",
+      "full_text": "PARTY\u2028Q14: GENDER\u2028Q15: IDEOLOGY\u2028Q16: AGE\u2028Q17: GEOGRAPHY [HARDCODED IN DATA]",
+      "category": "demographics",
+      "source": "GA SD 18 Special Election Survey Instrument 121825 (7)",
+      "marker": "Q13:"
+    }
+  ],
+  "stats": {
+    "total_questions": 212,
+    "by_category": {
+      "other": 76,
+      "favorability": 39,
+      "policy": 22,
+      "demographics": 16,
+      "screener": 12,
+      "top_of_ballot": 17,
+      "issue": 2,
+      "job_approval": 5,
+      "persuasion": 23
+    }
+  }
+}
